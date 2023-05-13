@@ -1,3 +1,12 @@
 .searchBar{
     width: 28rem!important;
 }
+
+.dropdown-item.active, .dropdown-item:active {
+    text-decoration: none!important;
+    background-color: rgb(236 28 36)!important;
+}
+
+.carousel-custom-height{
+    height: 500px;
+}
