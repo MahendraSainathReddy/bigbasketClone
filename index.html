@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Small Basket - Online Grocery Shopping and Online Supermarket in India</title>
+    <title>Small Basket - Online Grocery Shopping & Online Supermarket in India</title>
     <link rel="icon" href="https://i.ibb.co/wSrxhkJ/image.png">
     <link rel="stylesheet" href="style.css">
     <script src="script.js"></script>
@@ -14,13 +14,13 @@
         <nav class="navbar navbar-expand-xl sticky-top shadow-sm">
             <div class="container">
                 <a class="navbar-brand" href="javascript:void(0)">
-                    <img class="img ms-4" src="https://i.ibb.co/GJTnmbz/image.png" alt="smallbasket" id="logoToggle">
+                    <img class="img" src="https://i.ibb.co/GJTnmbz/image.png" alt="smallbasket" id="logoToggle">
                 </a>
                 <div class="ms-4" id="geoLocationName">
                     <i class="bi bi-geo-alt-fill text-danger fs-5"></i>
                     <span class="fs-5" id="locationName">Location</span>
                 </div>
-                <div class="ms-4" id="darkModeTextButton">
+                <div class="ms-4 me-4" id="darkModeTextButton">
                     <a onclick="changeMode()">
                         <i id="darkModeButton" class="bi bi-toggle-off fs-5"></i>
                     </a>
@@ -28,9 +28,9 @@
                 <button class="navbar-toggler shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
                     <i class="bi bi-list"></i>
                 </button>
-                <div class="collapse navbar-collapse" id="mynavbar">
-                    <ul class="navbar-nav ms-auto"> 
-                        <li class="nav-item searchBar ms-5">
+                <div class="collapse navbar-collapse mx-auto" id="mynavbar">
+                    <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll"> 
+                        <li class="nav-item searchBar">
                             <div class="input-group">
                                 <input type="text" class="form-control shadow-none" placeholder="Looking for a specific item? Search our store now!">
                                 <button class="input-group-text">
@@ -38,19 +38,19 @@
                                 </button>
                             </div>
                         </li>
-                        <li class="nav-item ms-5">
+                        <li class="nav-item ms-2">
                             <a class="nav-link" href="javascript:void(0)">
                                 <i class="bi bi-basket text-danger fs-5" id="cartLogo"></i>
                                 <span class="fs-5 text-dark">Basket</span>
                             </a>
                         </li>
-                        <li class="nav-item ms-5">
+                        <li class="nav-item ms-2">
                             <a class="nav-link" href="javascript:void(0)">
                                 <i class="bi bi-box-arrow-in-right text-danger fs-5"></i>
                                 <span class="fs-5 text-dark">SignIn</span>
                             </a>
                         </li>
-                        <li class="nav-item ms-5">
+                        <li class="nav-item ms-2">
                             <a class="nav-link" href="javascript:void(0)">
                                 <i class="bi bi-person-fill text-danger fs-5"></i>
                                 <span class="fs-5 text-dark">SignUp</span>
@@ -60,6 +60,102 @@
                 </div>
             </div>
         </nav>
+        <nav class="navbar navbar-expand-xl shadow-sm">
+            <div class="container">
+              <span class="navbar-brand">Shop By Category:</span>
+              <button class="navbar-toggler shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll">
+                    <i class="bi bi-list"></i>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarScroll">
+                <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle  text-dark" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Fruits & Vegetables
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
+                            <li><a class="dropdown-item" href="#">Fresh Vegetables</a></li>
+                            <li><a class="dropdown-item" href="#">Herbs & Seasonings</a></li>
+                            <li><a class="dropdown-item" href="#">Fresh Fruits</a></li>
+                            <li><a class="dropdown-item" href="#">Organic Fruits & Vegetables</a></li>
+                            <li><a class="dropdown-item" href="#">Cuts & Sprouts</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle  text-dark" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Foodgrains, Oil & Masala
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
+                            <li><a class="dropdown-item" href="#">Atta, Flours</a></li>
+                            <li><a class="dropdown-item" href="#">Rice & Rice Products</a></li>
+                            <li><a class="dropdown-item" href="#">Dals & Pulses</a></li>
+                            <li><a class="dropdown-item" href="#">Edible Oils & Ghee</a></li>
+                            <li><a class="dropdown-item" href="#">Salt, Sugar & Jaggaery</a></li>
+                            <li><a class="dropdown-item" href="#">Masalas & Spices</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle  text-dark" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Bakery, Cakes & Dairy
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
+                            <li><a class="dropdown-item" href="#">Dairy</a></li>
+                            <li><a class="dropdown-item" href="#">Non Dairy</a></li>
+                            <li><a class="dropdown-item" href="#">Breads & Buns</a></li>
+                            <li><a class="dropdown-item" href="#">Cookies and Rusk</a></li>
+                            <li><a class="dropdown-item" href="#">Cakes & Pastries</a></li>
+                            <li><a class="dropdown-item" href="#">Icecreams & Desserts</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle  text-dark" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Beverages
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
+                            <li><a class="dropdown-item" href="#">Energy & Soft Drinks</a></li>
+                            <li><a class="dropdown-item" href="#">Tea</a></li>
+                            <li><a class="dropdown-item" href="#">Coffee</a></li>
+                            <li><a class="dropdown-item" href="#">Fruit Juices & Drinks</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle  text-dark" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Eggs, Meat & Fish
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
+                            <li><a class="dropdown-item" href="#">Eggs</a></li>
+                            <li><a class="dropdown-item" href="#">Poultry</a></li>
+                            <li><a class="dropdown-item" href="#">Mutton & Lamb</a></li>
+                            <li><a class="dropdown-item" href="#">Fish & Sea Food</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle  text-dark" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Beauty & Hygiene
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
+                            <li><a class="dropdown-item" href="#">Oral Care</a></li>
+                            <li><a class="dropdown-item" href="#">Feminine Hygiene</a></li>
+                            <li><a class="dropdown-item" href="#">Hair Care</a></li>
+                            <li><a class="dropdown-item" href="#">Men's Grooming</a></li>
+                            <li><a class="dropdown-item" href="#">Skin Care</a></li>
+                            <li><a class="dropdown-item" href="#">Fragrances & Deos</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle  text-dark" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Baby Care
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
+                            <li><a class="dropdown-item" href="#">Diapers & Wipes</a></li>
+                            <li><a class="dropdown-item" href="#">Baby Bath & Hygiene</a></li>
+                            <li><a class="dropdown-item" href="#">Baby Accessories</a></li>
+                            <li><a class="dropdown-item" href="#">Mothers & Maternity</a></li>
+                        </ul>
+                    </li>
+                </ul>
+              </div>
+            </div>
+          </nav>
     </header>
 </body>
 </html>
