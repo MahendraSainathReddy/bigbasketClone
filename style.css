@@ -8,5 +8,13 @@
 }
 
 .carousel-custom-height{
-    height: 500px;
+    height: 400px;
+}
+
+#owlCarousel .item{
+    height: 350px;
+}
+
+.owlCarouselImgDiv{
+    height: 65%;
 }
