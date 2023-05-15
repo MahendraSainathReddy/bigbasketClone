@@ -18,3 +18,8 @@
 .owlCarouselImgDiv{
     height: 65%;
 }
+
+.weatherCustomDiv{
+    height: 300px!important;
+    width: 250px!important;
+}
