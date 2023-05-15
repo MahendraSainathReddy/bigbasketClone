@@ -11,7 +11,7 @@
     height: 400px;
 }
 
-#owlCarousel .item{
+#owlCarousel-1 .item{
     height: 350px;
 }
 
@@ -20,6 +20,10 @@
 }
 
 .weatherCustomDiv{
-    height: 300px!important;
+    height: 275px!important;
     width: 250px!important;
+}
+
+#owlCarousel-2 .item{
+    height: 350px;
 }
