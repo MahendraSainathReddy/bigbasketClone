@@ -31,3 +31,11 @@
 #owlCarousel-3 .item{
     height: 350px;
 }
+
+#owlCarousel-4 .item{
+    height: 350px;
+}
+
+.item:hover{
+    transform: scale(1.05);
+}
