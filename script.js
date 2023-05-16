@@ -21,6 +21,10 @@ function changeMode() {
 
         document.getElementById("darkModeButton").classList.add('text-white')
 
+        document.getElementById("navbar2List").classList.add('text-white')
+
+        document.getElementById("navbar1List").classList.add('text-white')
+
         for (var i = 0 ;i < spanELements.length; i++) {
             
             spanELements[i].classList.remove("text-dark");
@@ -52,7 +56,12 @@ function changeMode() {
     else{
 
         document.getElementById('logoToggle').src = "https://i.ibb.co/GJTnmbz/image.png"
+
         document.getElementById("darkModeButton").classList.remove('text-white')
+
+        document.getElementById("navbar2List").classList.remove('text-white')
+
+        document.getElementById("navbar1List").classList.remove('text-white')
 
         for (var i = 0; i < spanELements.length; i++) {
 
