@@ -39,3 +39,11 @@
 .item:hover{
     transform: scale(1.05);
 }
+
+.offersColDiv{
+    height: 250px;
+}
+
+.offersColDiv:hover{
+    transform: scale(1.05);
+}
