@@ -493,10 +493,11 @@
                 </div>
             </div>
             <div class="col-lg-3 shadow-sm mt-3">
-                <h5 class="text-center">Weather</h5>
+                <h5 class="text-center">Weather-Wise Shopping</h5>
                 <hr class="hr">
+                <p class="text-center">Stock Up on Essentials Based on the Local Temperature!</p>
                 <div class="container weatherCustomDiv">
-                    <p class="text-center" id="locationNameWeatherDiv">location</p>
+                    <p class="text-center" id="locationNameWeatherDiv">location - disabled</p>
                     <div class="customSize m-auto">
                         <img class="h-100 w-100" id="tempIcon" src="https://i.ibb.co/3MQbjB0/image.png" alt="image" border="0">
                     </div>
@@ -1516,6 +1517,29 @@
         </div>
     </footer>
 
+
+    <div class="modal fade" id="couponCodes" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header text-center">
+                    <h5 class="modal-title  text-warning" id="staticBackdropLabel">Beat the Heat with Cool Savings!</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="container-fluid d-flex justify-content-center">
+                        <img src="https://i.ibb.co/5Rk2BQC/clipboard-1.png" alt="">
+                    </div>
+                    <p class="mt-3 text-center">Enjoy Discounts on Refreshing Beverages and Frozen Treats this summer with Coupon Code: <span class="bg-warning text-white">&nbsp;COOLSUMMER80&nbsp;</span></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function(){
+            $("#couponCodes").modal('show');
+        });
+    </script>
 
     <script src="owlcarousel/jquery.min.js"></script>
     <script src="owlcarousel/owl.carousel.min.js"></script>
