@@ -20,8 +20,13 @@
 }
 
 .weatherCustomDiv{
-    height: 275px!important;
+    height: 350px!important;
     width: 250px!important;
+}
+
+.customSize{
+    height: 25%;
+    width: 40%;
 }
 
 #owlCarousel-2 .item{

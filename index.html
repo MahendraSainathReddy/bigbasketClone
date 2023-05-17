@@ -21,9 +21,9 @@
                 <a class="navbar-brand" href="javascript:void(0)">
                     <img class="img" src="https://i.ibb.co/GJTnmbz/image.png" alt="smallbasket" id="logoToggle">
                 </a>
-                <div class="ms-4 d-flex justify-content-center" id="geoLocationName">
-                    <i class="bi bi-geo-alt-fill text-danger fs-5"></i>
-                    <span class="fs-5" id="locationName">Location</span>
+                <div class="ms-2 d-flex justify-content-center" id="geoLocationName">
+                    <i class="bi bi-geo-alt-fill text-danger fs-5 me-2"></i>
+                    <span class="fs-6 mt-1" id="locationNameNavBar">Location</span>
                 </div>
                 <div class="ms-4 me-4" id="darkModeTextButton">
                     <a href="#" class="text-dark" onclick="changeMode()">
@@ -496,12 +496,13 @@
                 <h5 class="text-center">Weather</h5>
                 <hr class="hr">
                 <div class="container weatherCustomDiv">
-                    <p class="text-center">location</p>
-                    <div class="h-50 w-50 m-auto">
-                        <img class="h-100 w-100" src="https://i.ibb.co/3MQbjB0/image.png" alt="image" border="0">
+                    <p class="text-center" id="locationNameWeatherDiv">location</p>
+                    <div class="customSize m-auto">
+                        <img class="h-100 w-100" id="tempIcon" src="https://i.ibb.co/3MQbjB0/image.png" alt="image" border="0">
                     </div>
-                    <p class="text-center">--</p>
-                    <p class="text-center">Weather Description</p>
+                    <p class="text-center" id="temperatureText">--</p>
+                    <p class="text-center" id="timeStamp"></p>
+                    <p class="text-center" id="temperatureDesc">Weather Description</p>
                 </div>
             </div>
         </div>
@@ -1688,5 +1689,10 @@
             }
         })
     </script>
+
+    <script>
+        window.onload =geoLocation()
+    </script>
+
 </body>
 </html>
