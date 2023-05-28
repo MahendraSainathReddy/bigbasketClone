@@ -1,68 +1,69 @@
-.searchBar{
-    width: 28rem!important;
+.searchBar {
+  width: 28rem !important;
 }
 
-.dropdown-item.active, .dropdown-item:active {
-    text-decoration: none!important;
-    background-color: rgb(236 28 36)!important;
+.dropdown-item.active,
+.dropdown-item:active {
+  text-decoration: none !important;
+  background-color: rgb(236 28 36) !important;
 }
 
-.carousel-custom-height{
-    height: 400px;
+.carousel-custom-height {
+  height: 400px;
 }
 
-#owlCarousel-1 .item{
-    height: 350px;
+#owlCarousel-1 .item {
+  height: 350px;
 }
 
-.owlCarouselImgDiv{
-    height: 65%;
+.owlCarouselImgDiv {
+  height: 65%;
 }
 
-.weatherCustomDiv{
-    height: 250px!important;
-    width: 250px!important;
+.weatherCustomDiv {
+  height: 250px !important;
+  width: 250px !important;
 }
 
-.customSize{
-    height: 87px;
-    width: 80px;
+.customSize {
+  height: 87px;
+  width: 80px;
 }
 
-#owlCarousel-2 .item{
-    height: 350px;
+#owlCarousel-2 .item {
+  height: 350px;
 }
 
-#owlCarousel-3 .item{
-    height: 350px;
+#owlCarousel-3 .item {
+  height: 350px;
 }
 
-#owlCarousel-4 .item{
-    height: 350px;
+#owlCarousel-4 .item {
+  height: 350px;
 }
 
-.item:hover{
-    transform: scale(1.05);
+.item:hover {
+  transform: scale(1.05);
 }
 
-.offersColDiv{
-    height: 250px;
+.offersColDiv {
+  height: 250px;
 }
 
-.offersColDiv:hover{
-    transform: scale(1.05);
-    box-shadow: 5px 5px 5px rgba(33,33,33,.2);
+.offersColDiv:hover {
+  transform: scale(1.05);
+  box-shadow: 5px 5px 5px rgba(33, 33, 33, 0.2);
 }
 
-.brandsColDiv:hover{
-    transform: scale(1.05);
-    box-shadow: 5px 5px 5px rgba(33,33,33,.2);
+.brandsColDiv:hover {
+  transform: scale(1.05);
+  box-shadow: 5px 5px 5px rgba(33, 33, 33, 0.2);
 }
 
-footer h5{
-    color: rgb(165 205 57);
+footer h5 {
+  color: rgb(165 205 57);
 }
 
-.footerLinks a:hover{
-    color: rgb(165 205 57)!important;
+.footerLinks a:hover {
+  color: rgb(165 205 57) !important;
 }
