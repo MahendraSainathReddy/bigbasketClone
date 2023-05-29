@@ -1,0 +1,32 @@
+[
+    {
+        "brand_id" : 1,
+        "brand_name" : "Amul",
+        "brand_image" : "https://i.ibb.co/qmZkcd0/image.png"
+    },
+    {
+        "brand_id" : 2,
+        "brand_name" : "Coco-cola",
+        "brand_image" : "https://i.ibb.co/S7sWsHf/image.png"
+    },
+    {
+        "brand_id" : 3,
+        "brand_name" : "Dettol",
+        "brand_image" : "https://i.ibb.co/6vbBt1N/image.png"
+    },
+    {
+        "brand_id" : 4,
+        "brand_name" : "L'oreal Paris",
+        "brand_image" : "https://i.ibb.co/qFQ4pSN/image.png"
+    },
+    {
+        "brand_id" : 5,
+        "brand_name" : "India Gate",
+        "brand_image" : "https://i.ibb.co/mRBQLG4/image.png"
+    },
+    {
+        "brand_id" : 6,
+        "brand_name" : "Durex",
+        "brand_image" : "https://i.ibb.co/r0rPYhG/image.png"
+    }
+]

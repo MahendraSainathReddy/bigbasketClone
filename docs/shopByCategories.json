@@ -1,0 +1,180 @@
+[
+    {
+        "category_id": 1,
+        "category_name": "Fruits & Vegetables",
+        "item_subcategories": [
+            {
+                "sub_category_id": 1,
+                "sub_category_name": "Fresh Vegetables"
+            },
+            {
+                "sub_category_id": 2,
+                "sub_category_name": "Herbs & Seasonings"
+            },
+            {
+                "sub_category_id": 3,
+                "sub_category_name": "Fresh Fruits"
+            },
+            {
+                "sub_category_id": 4,
+                "sub_category_name": "Cuts & Sprouts"
+            }
+        ]
+    },
+    {
+        "category_id": 2,
+        "category_name": "Foodgrains, Oil & Masala",
+        "item_subcategories": [
+            {
+                "sub_category_id": 5,
+                "sub_category_name": "Atta, Flours"
+            },
+            {
+                "sub_category_id": 6,
+                "sub_category_name": "Rice & Rice Products"
+            },
+            {
+                "sub_category_id": 7,
+                "sub_category_name": "Dals & Pulses"
+            },
+            {
+                "sub_category_id": 8,
+                "sub_category_name": "Edible Oils & Ghee"
+            },
+            {
+                "sub_category_id": 9,
+                "sub_category_name": "Salt, Sugar & Jaggaery"
+            },
+            {
+                "sub_category_id": 10,
+                "sub_category_name": "Masalas & Spices"
+            }
+        ]
+    },
+    {
+        "category_id": 3,
+        "category_name": "Bakery, Cakes & Dairy",
+        "item_subcategories": [
+            {
+                "sub_category_id": 12,
+                "sub_category_name": "Dairy"
+            },
+            {
+                "sub_category_id": 13,
+                "sub_category_name": "Non Dairy"
+            },
+            {
+                "sub_category_id": 14,
+                "sub_category_name": "Breads & Buns"
+            },
+            {
+                "sub_category_id": 15,
+                "sub_category_name": "Cookies and Rusk"
+            },
+            {
+                "sub_category_id": 16,
+                "sub_category_name": "Cakes & Pastries"
+            },
+            {
+                "sub_category_id": 17,
+                "sub_category_name": "Icecreams & Desserts"
+            }
+        ]
+    },
+    {
+        "category_id": 4,
+        "category_name": "Beverages",
+        "item_subcategories": [
+            {
+                "sub_category_id": 18,
+                "sub_category_name": "Energy & Soft Drinks"
+            },
+            {
+                "sub_category_id": 19,
+                "sub_category_name": "Tea"
+            },
+            {
+                "sub_category_id": 20,
+                "sub_category_name": "Coffee"
+            },
+            {
+                "sub_category_id": 21,
+                "sub_category_name": "Fruit Juices & Drinks"
+            }
+        ]
+    },
+    {
+        "category_id": 5,
+        "category_name": "Eggs, Meat & Fish",
+        "item_subcategories": [
+            {
+                "sub_category_id": 18,
+                "sub_category_name": "Eggs"
+            },
+            {
+                "sub_category_id": 19,
+                "sub_category_name": "Poultry"
+            },
+            {
+                "sub_category_id": 20,
+                "sub_category_name": "Mutton & Lamb"
+            },
+            {
+                "sub_category_id": 21,
+                "sub_category_name": "Fish & Sea Food"
+            }
+        ]
+    },
+    {
+        "category_id": 6,
+        "category_name": "Beauty & Hygiene",
+        "item_subcategories": [
+            {
+                "sub_category_id": 22,
+                "sub_category_name": "Oral Care"
+            },
+            {
+                "sub_category_id": 23,
+                "sub_category_name": "Feminine Hygiene"
+            },
+            {
+                "sub_category_id": 24,
+                "sub_category_name": "Hair Care"
+            },
+            {
+                "sub_category_id": 25,
+                "sub_category_name": "Men's Grooming"
+            },
+            {
+                "sub_category_id": 26,
+                "sub_category_name": "Skin Care"
+            },
+            {
+                "sub_category_id": 27,
+                "sub_category_name": "Fragrances & Deos"
+            }
+        ]
+    },
+    {
+        "category_id": 7,
+        "category_name": "Baby Care",
+        "item_subcategories": [
+            {
+                "sub_category_id": 28,
+                "sub_category_name": "Diapers & Wipes"
+            },
+            {
+                "sub_category_id": 29,
+                "sub_category_name": "Baby Bath & Hygiene"
+            },
+            {
+                "sub_category_id": 30,
+                "sub_category_name": "Baby Accessories"
+            },
+            {
+                "sub_category_id": 31,
+                "sub_category_name": "Mothers & Maternity"
+            }
+        ]
+    }
+]
