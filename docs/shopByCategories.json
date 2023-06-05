@@ -56,27 +56,27 @@
         "category_name": "Bakery, Cakes & Dairy",
         "item_subcategories": [
             {
-                "sub_category_id": 12,
+                "sub_category_id": 11,
                 "sub_category_name": "Dairy"
             },
             {
-                "sub_category_id": 13,
+                "sub_category_id": 12,
                 "sub_category_name": "Non Dairy"
             },
             {
-                "sub_category_id": 14,
+                "sub_category_id": 13,
                 "sub_category_name": "Breads & Buns"
             },
             {
-                "sub_category_id": 15,
+                "sub_category_id": 14,
                 "sub_category_name": "Cookies and Rusk"
             },
             {
-                "sub_category_id": 16,
+                "sub_category_id": 15,
                 "sub_category_name": "Cakes & Pastries"
             },
             {
-                "sub_category_id": 17,
+                "sub_category_id": 16,
                 "sub_category_name": "Icecreams & Desserts"
             }
         ]
@@ -86,19 +86,19 @@
         "category_name": "Beverages",
         "item_subcategories": [
             {
-                "sub_category_id": 18,
+                "sub_category_id": 17,
                 "sub_category_name": "Energy & Soft Drinks"
             },
             {
-                "sub_category_id": 19,
+                "sub_category_id": 18,
                 "sub_category_name": "Tea"
             },
             {
-                "sub_category_id": 20,
+                "sub_category_id": 19,
                 "sub_category_name": "Coffee"
             },
             {
-                "sub_category_id": 21,
+                "sub_category_id": 20,
                 "sub_category_name": "Fruit Juices & Drinks"
             }
         ]
@@ -108,19 +108,19 @@
         "category_name": "Eggs, Meat & Fish",
         "item_subcategories": [
             {
-                "sub_category_id": 18,
+                "sub_category_id": 21,
                 "sub_category_name": "Eggs"
             },
             {
-                "sub_category_id": 19,
+                "sub_category_id": 22,
                 "sub_category_name": "Poultry"
             },
             {
-                "sub_category_id": 20,
+                "sub_category_id": 23,
                 "sub_category_name": "Mutton & Lamb"
             },
             {
-                "sub_category_id": 21,
+                "sub_category_id": 24,
                 "sub_category_name": "Fish & Sea Food"
             }
         ]
@@ -130,27 +130,27 @@
         "category_name": "Beauty & Hygiene",
         "item_subcategories": [
             {
-                "sub_category_id": 22,
+                "sub_category_id": 25,
                 "sub_category_name": "Oral Care"
             },
             {
-                "sub_category_id": 23,
+                "sub_category_id": 26,
                 "sub_category_name": "Feminine Hygiene"
             },
             {
-                "sub_category_id": 24,
+                "sub_category_id": 27,
                 "sub_category_name": "Hair Care"
             },
             {
-                "sub_category_id": 25,
+                "sub_category_id": 28,
                 "sub_category_name": "Men's Grooming"
             },
             {
-                "sub_category_id": 26,
+                "sub_category_id": 29,
                 "sub_category_name": "Skin Care"
             },
             {
-                "sub_category_id": 27,
+                "sub_category_id": 30,
                 "sub_category_name": "Fragrances & Deos"
             }
         ]
@@ -160,20 +160,38 @@
         "category_name": "Baby Care",
         "item_subcategories": [
             {
-                "sub_category_id": 28,
+                "sub_category_id": 31,
                 "sub_category_name": "Diapers & Wipes"
             },
             {
-                "sub_category_id": 29,
+                "sub_category_id": 32,
                 "sub_category_name": "Baby Bath & Hygiene"
             },
             {
-                "sub_category_id": 30,
-                "sub_category_name": "Baby Accessories"
+                "sub_category_id": 33,
+                "sub_category_name": "Mothers & Maternity"
+            }
+        ]
+    },
+    {
+        "category_id": 8,
+        "category_name": "Others",
+        "item_subcategories": [
+            {
+                "sub_category_id": 34,
+                "sub_category_name": "Detergents"
             },
             {
-                "sub_category_id": 31,
-                "sub_category_name": "Mothers & Maternity"
+                "sub_category_id": 35,
+                "sub_category_name": "Noodles"
+            },
+            {
+                "sub_category_id": 36,
+                "sub_category_name": "Nuts and Dry Fruits"
+            },
+            {
+                "sub_category_id": 37,
+                "sub_category_name": "Snacks"
             }
         ]
     }

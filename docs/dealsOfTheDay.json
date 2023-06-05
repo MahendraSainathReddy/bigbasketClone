@@ -1,0 +1,134 @@
+[
+    {
+        "product_id" : 20,
+        "product_name" : "Mango Banganapalli",
+        "sub_category_name":"Fresh Fruits",
+        "sub_category_id": 3,
+        "product_quantity":"1 KG",
+        "original_price":93,
+        "discounted_price":79,
+        "product_description":"Banganpalli are sourced from Andhra Pradesh and known for their unique sweet and rich taste. They are moderately juicy and aromatic with a maize-yellow colour.",
+        "product_image" : "https://i.ibb.co/pbqw0tp/image.png"
+    },
+    {
+        "product_id" : 246,
+        "product_name" : "Surf Excel Matic Powder",
+        "sub_category_name":"Detergents",
+        "sub_category_id": 34,
+        "product_quantity":"2 KG",
+        "original_price":540,
+        "discounted_price":527,
+        "product_description":"Presenting, Surf excel matic top load the machine specialist laundry detergent from the Surf excel matic family that gives you 100% Tough Stain Removal in Machines. Surf excel matic top load is specially designed to work in high water level environment (40 liters) of top load washing machines.",
+        "product_image" : "https://i.ibb.co/zFVsySK/image.png"
+    },
+    {
+        "product_id" : 136,
+        "product_name" : "BRU Instant Coffee",
+        "sub_category_name":"Coffee",
+        "sub_category_id": 19,
+        "product_quantity":"200 g",
+        "original_price":460,
+        "discounted_price":371,
+        "product_description":"BRU Instant Coffee was launched in 1968 and was Indias first coffee-chicory mix instant coffee. It is the perfect mix of 70% coffee and 30% chicory and is made from a fine blend of the choicest plantation and Robusta beans.",
+        "product_image" : "https://i.ibb.co/dQVmNhj/image.png"
+    },
+    {
+        "product_id" : 247,
+        "product_name" : "Maggi Masala Noodles",
+        "sub_category_name":"Noodles",
+        "sub_category_id": 35,
+        "product_quantity":"12 x 70 g",
+        "original_price":168,
+        "discounted_price":160,
+        "product_description":"India's favourite Masala Noodles, Maggi 2-minute Noodles, now come with the goodness of Iron. Each portion (70g) of Maggi Masala Noodles provides you with 15% of your daily Iron requirement (*as per the Daily Dietary Allowances for an Adult Sedentary Male (ICMR 2010).",
+        "product_image" : "https://i.ibb.co/WxVfcCH/image.png"
+    },
+    {
+        "product_id" : 248,
+        "product_name" : "Nutritious Almond",
+        "sub_category_name":"Nuts and Dry Fruits",
+        "sub_category_id": 36,
+        "product_quantity":"500 g",
+        "original_price":407,
+        "discounted_price":342,
+        "product_description":"Almonds are bite-sized all-rounders when it comes to keeping you young & fit. It's food for the brain, keeping your memory sharp. They are packed full of nutrients. The wholesome constituents of these nuts provide the required amount of energy to the body and help maintain brain health.",
+        "product_image" : "https://i.ibb.co/jM21XFt/image.png"
+    },
+    {
+        "product_id" : 83,
+        "product_name" : "Amul Taaza Toned Milk",
+        "sub_category_name":"Dairy",
+        "sub_category_id": 11,
+        "product_quantity":"1 L",
+        "original_price":80,
+        "discounted_price":72,
+        "product_description":"Amul Taaza Homogenized Toned Milk is fully wholesome and entirely luscious. It has a low-fat, low-carb, low-calorie and standard protein content. It continues fresh for 2 days after opening if kept in refrigerator. No water or powder added, no preservative / chemical, easy to carry and use on traveling. It does not have germs as it is pasteurized and therefore hygienic.",
+        "product_image" : "https://i.ibb.co/6BPg1XY/image.png"
+    },
+    {
+        "product_id" : 249,
+        "product_name" : "Lay's Potato Chips",
+        "sub_category_name":"Snacks",
+        "sub_category_id": 37,
+        "product_quantity":"2 x 40 g",
+        "original_price":40,
+        "discounted_price":35,
+        "product_description":"Romance your taste buds with the tangy flavour of tomatoes and savoury spices. From the everyday snack to the impromptu get-togethers, Laya’s chips are the perfect addition to any occasion. Whether it’s party time or family time, everyone loves gathering around the chip bowl.",
+        "product_image" : "https://i.ibb.co/G9csy37/image.png"
+    },
+    {
+        "product_id" : 124,
+        "product_name" : "Sprite Soft Drink",
+        "sub_category_name":"Energy & Soft Drinks",
+        "sub_category_id": 17,
+        "product_quantity":"1.25 L",
+        "original_price":75,
+        "discounted_price":68,
+        "product_description":"Refreshing people since 1999, Sprite is known for its straightforward attitude. The brand strongly believes in removing all the unnecessary Bakwaas from your life so that you can chill for real. Days full of work pressure, frustration and scoffing can make life stressful. Release all the stress with Sprite soft drink and restart with a clear head.",
+        "product_image" : "https://i.ibb.co/GWyQTPy/image.png"
+    },
+    {
+        "product_id" : 98,
+        "product_name" : "Britannia Wheat Bread",
+        "sub_category_name":"Breads & Buns",
+        "sub_category_id": 13,
+        "product_quantity":"450 g",
+        "original_price":65,
+        "discounted_price":55,
+        "product_description":"Milled from 100% whole grains of wheat, this bread is low in saturated fat and doubles up as a good source of fibre. Whether you live to eat or eat to live, it’s best when it’s done right. Britannia’s range of wholesome and delicious bread is filled with the goodness you need to keep your body healthy and happy.",
+        "product_image" : "https://i.ibb.co/YtTjVVh/image.png"
+    },
+    {
+        "product_id" : 250,
+        "product_name" : "Fogg Impressio Scent",
+        "sub_category_name":"Fragrances & Deos",
+        "sub_category_id": 30,
+        "product_quantity":"100 ml",
+        "original_price":650,
+        "discounted_price":553,
+        "product_description":"Conjure up an aura of style and enigma with the magnetic fragrance of Fogg Impressio. To the man who is always charming and radiates an aura of a true gentleman, Fogg Impressio is an ideal scent for you.",
+        "product_image" : "https://i.ibb.co/MRxtZtL/image.png"
+    },
+    {
+        "product_id" : 151,
+        "product_name" : "Fresho Farm Eggs - Table Tray",
+        "sub_category_name":"Eggs",
+        "sub_category_id": 21,
+        "product_quantity":"30 pieces",
+        "original_price":265,
+        "discounted_price":219,
+        "product_description":"Eggs are one of the common food items in most of the households. From breakfast to dinner, eggs are indulged in various ways. Poached, boiled, fried; we all have our own favourite choices. Not only are they delicious, but they are also crammed with health benefits.",
+        "product_image" : "https://i.ibb.co/PYGRcVb/image.png"
+    },
+    {
+        "product_id" : 3,
+        "product_name" : "Potato",
+        "sub_category_name":"Fresh Vegetables",
+        "sub_category_id": 1,
+        "product_quantity":"1 KG",
+        "original_price":40,
+        "discounted_price":29,
+        "product_description":"Potatoes are nutrient-dense, non-fattening and have reasonable amount of calories. Include them in your regular meals so that the body receives a good supply of carbohydrates, dietary fibers and essential minerals such as copper, magnesium, and iron. In India, potatoes are probably the second-most consumed vegetables after onions.",
+        "product_image" : "https://i.ibb.co/YycgXfb/image.png"
+    }
+]
