@@ -1,32 +1,187 @@
 [
-    {
-        "brand_id" : 1,
+    {   
         "brand_name" : "Amul",
+        "brand_id" : 1,
         "brand_image" : "https://i.ibb.co/qmZkcd0/image.png"
     },
     {
-        "brand_id" : 2,
         "brand_name" : "Coco-cola",
+        "brand_id" : 2,
         "brand_image" : "https://i.ibb.co/S7sWsHf/image.png"
     },
     {
-        "brand_id" : 3,
         "brand_name" : "Dettol",
+        "brand_id" : 3,
         "brand_image" : "https://i.ibb.co/6vbBt1N/image.png"
     },
     {
-        "brand_id" : 4,
         "brand_name" : "L'oreal Paris",
+        "brand_id" : 4,
         "brand_image" : "https://i.ibb.co/qFQ4pSN/image.png"
     },
     {
-        "brand_id" : 5,
         "brand_name" : "India Gate",
+        "brand_id" : 5,
         "brand_image" : "https://i.ibb.co/mRBQLG4/image.png"
     },
     {
-        "brand_id" : 6,
         "brand_name" : "Durex",
+        "brand_id" : 6,
         "brand_image" : "https://i.ibb.co/r0rPYhG/image.png"
+    },
+    {
+        "brand_name" : "Fresho",
+        "brand_id" : 7,
+        "brand_image" : "https://i.ibb.co/ckD284p/image.png"
+    },
+    {
+        "brand_name" : "Aashirvaad",
+        "brand_id" : 8,
+        "brand_image" : "https://i.ibb.co/JHSjW7v/image.png"
+    },
+    {
+        "brand_name" : "Bhagirathi",
+        "brand_id" : 9,
+        "brand_image" : "https://i.ibb.co/v4v4pHw/image.png"
+    },
+    {
+        "brand_name" : "Natureland",
+        "brand_id" : 10,
+        "brand_image" : "https://i.ibb.co/n3ngQdd/image.png"
+    },
+    {
+        "brand_name" : "Vijay Foods",
+        "brand_id" : 11,
+        "brand_image" : "https://i.ibb.co/tpvFZYs/image.png"
+    },
+    {
+        "brand_name" : "Satyam Foods",
+        "brand_id" : 12,
+        "brand_image" : "https://i.ibb.co/JkFDNP6/image.png"
+    },
+    {
+        "brand_name" : "Daawat",
+        "brand_id" : 13,
+        "brand_image" : "https://i.ibb.co/HX4MYpQ/image.png"
+    },
+    {
+        "brand_name" : "Kohinoor Foods Limited",
+        "brand_id" : 14,
+        "brand_image" : "https://i.ibb.co/s11MQZp/image.png"
+    },
+    {
+        "brand_name" : "TATA",
+        "brand_id" : 15,
+        "brand_image" : "https://i.ibb.co/mXmqGz5/image.png"
+    },
+    {
+        "brand_name" : "24 Mantra Organic",
+        "brand_id" : 16,
+        "brand_image" : "https://i.ibb.co/xzXpD1D/image.png"
+    },
+    {
+        "brand_name" : "Town Grocer",
+        "brand_id" : 17,
+        "brand_image" : "https://i.ibb.co/0XxGWz0/image.png"
+    },
+    {
+        "brand_name" : "Sumeru Foods",
+        "brand_id" : 18,
+        "brand_image" : "https://i.ibb.co/kX7C4XZ/image.png"
+    },
+    {
+        "brand_name" : "Fortune Edible Oil and Foods",
+        "brand_id" : 19,
+        "brand_image" : "https://i.ibb.co/4g9LBVB/image.png"
+    },
+    {
+        "brand_name" : "Anandam",
+        "brand_id" : 20,
+        "brand_image" : "https://i.ibb.co/7vTQP8K/image.png"
+    },
+    {
+        "brand_name" : "GRB Dairy Foods",
+        "brand_id" : 21,
+        "brand_image" : "https://i.ibb.co/YX9qCCg/image.png"
+    },
+    {
+        "brand_name" : "Saffola",
+        "brand_id" : 22,
+        "brand_image" : "https://i.ibb.co/YBX9Hrm/image.png"
+    },
+    {
+        "brand_name" : "Grofers",
+        "brand_id" : 23,
+        "brand_image" : "https://i.ibb.co/Qp91QbW/image.png"
+    },
+    {
+        "brand_name" : "Parry's",
+        "brand_id" : 24,
+        "brand_image" : "https://i.ibb.co/98yZ9YZ/image.png"
+    },
+    {
+        "brand_name" : "Maggi",
+        "brand_id" : 25,
+        "brand_image" : "https://i.ibb.co/0Bv4GMJ/image.png"
+    },
+    {
+        "brand_name" : "Suhana",
+        "brand_id" : 26,
+        "brand_image" : "https://i.ibb.co/0Bv4GMJ/image.png"
+    },
+    {
+        "brand_name" : "Everest Spices",
+        "brand_id" : 27,
+        "brand_image" : "https://i.ibb.co/HzpBsPw/image.png"
+    },
+    {
+        "brand_name" : "Catch Foods",
+        "brand_id" : 28,
+        "brand_image" : "https://i.ibb.co/7Ypqbd2/image.png"
+    },
+    {
+        "brand_name" : "Milky Mist",
+        "brand_id" : 29,
+        "brand_image" : "https://i.ibb.co/FYZ7dRd/image.png"
+    },
+    {
+        "brand_name" : "Hersheys",
+        "brand_id" : 30,
+        "brand_image" : "https://i.ibb.co/xhkj6hN/image.png"
+    },
+    {
+        "brand_name" : "Sunfeast",
+        "brand_id" : 31,
+        "brand_image" : "https://i.ibb.co/02SHqfb/image.png"
+    },
+    {
+        "brand_name" : "Life Health Foods",
+        "brand_id" : 32,
+        "brand_image" : "https://i.ibb.co/fkJBt1Y/image.png"
+    },
+    {
+        "brand_name" : "Epigamia",
+        "brand_id" : 33,
+        "brand_image" : "https://i.ibb.co/RNssfJ4/image.png"
+    },
+    {
+        "brand_name" : "Only Earth",
+        "brand_id" : 34,
+        "brand_image" : "https://i.ibb.co/X58F4vz/image.png"
+    },
+    {
+        "brand_name" : "Borges",
+        "brand_id" : 35,
+        "brand_image" : "https://i.ibb.co/5Y35Lmx/image.png"
+    },
+    {
+        "brand_name" : "English Oven",
+        "brand_id" : 36,
+        "brand_image" : "https://i.ibb.co/hDFGzT5/image.png"
+    },
+    {
+        "brand_name" : "Britannia",
+        "brand_id" : 37,
+        "brand_image" : "https://i.ibb.co/G90HnSN/image.png"
     }
 ]

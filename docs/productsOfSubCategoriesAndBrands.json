@@ -8,7 +8,9 @@
         "original_price":176,
         "discounted_price":129,
         "product_description":"With a shape resembling that of a cauliflower, Brocoli's have clusters of small, tight flower heads. These heads turn bright green on cooking and tastes slightly bitter.",
-        "product_image" : "https://i.ibb.co/f8xQNTY/image.png"
+        "product_image" : "https://i.ibb.co/f8xQNTY/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 2,
@@ -19,7 +21,9 @@
         "original_price":32,
         "discounted_price":24,
         "product_description":"Onion is a vegetable which is almost like a staple in Indian food. This is also known to be one of the essential ingredients of raw salads. They come in different colors like white, red or yellow and are quite in demand in cold salads and hot soups.",
-        "product_image" : "https://i.ibb.co/d4GpN0B/image.png"
+        "product_image" : "https://i.ibb.co/d4GpN0B/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 3,
@@ -30,7 +34,9 @@
         "original_price":40,
         "discounted_price":29,
         "product_description":"Potatoes are nutrient-dense, non-fattening and have reasonable amount of calories. Include them in your regular meals so that the body receives a good supply of carbohydrates, dietary fibers and essential minerals such as copper, magnesium, and iron. In India, potatoes are probably the second-most consumed vegetables after onions.",
-        "product_image" : "https://i.ibb.co/YycgXfb/image.png"
+        "product_image" : "https://i.ibb.co/YycgXfb/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 4,
@@ -41,7 +47,9 @@
         "original_price":56,
         "discounted_price":42,
         "product_description":"A popular sweet-tasting root vegetable, Carrots are narrow and cone shaped. They have thick, fleshy, deeply colored root, which grows underground, and feathery green leaves that emerge above the ground.",
-        "product_image" : "https://i.ibb.co/cbWCkLL/image.png"
+        "product_image" : "https://i.ibb.co/cbWCkLL/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" :5,
@@ -52,7 +60,9 @@
         "original_price":31,
         "discounted_price":23,
         "product_description":"tomatoes are partly sour and partly sweet and contain many seeds inside which are edible. The red colour present in tomatoes is due to lycopene, an anti-oxidant.",
-        "product_image" : "https://i.ibb.co/nsRxxxp/image.png"
+        "product_image" : "https://i.ibb.co/nsRxxxp/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 6,
@@ -63,7 +73,9 @@
         "original_price":38,
         "discounted_price":28,
         "product_description":"Ladies' finger is a green vegetable with a tip at the end and a lighter green head, which is inedible and to be thrown away. It tastes mild and slightly grassy.",
-        "product_image" : "https://i.ibb.co/0QxQwPL/image.png"
+        "product_image" : "https://i.ibb.co/0QxQwPL/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 7,
@@ -74,7 +86,9 @@
         "original_price":52,
         "discounted_price":30,
         "product_description":"These edible ruby red roots are smooth and bulbous and have the highest sugar content than any other vegetable.",
-        "product_image" : "https://i.ibb.co/S07fgmG/image.png"
+        "product_image" : "https://i.ibb.co/S07fgmG/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 8,
@@ -85,7 +99,9 @@
         "original_price":68,
         "discounted_price":50,
         "product_description":"green chillies are meant to send shivers up your spine - literally! These chillies are grown in special organic farms, from where they are packaged in hygienic and clean environments to ensure purity. These green chillies are definitely a staple in your refrigerator to create aromatic delicacies.",
-        "product_image" : "https://i.ibb.co/T8qXQpF/image.png"
+        "product_image" : "https://i.ibb.co/T8qXQpF/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 9,
@@ -96,7 +112,9 @@
         "original_price":82,
         "discounted_price":60,
         "product_description":"beans are smaller than common green beans and have a soft, velvety pod. Quite fleshy for their size, only tiny seeds inhabit these delicate pods. French beans are sweet, tender and wonderfully crispy. Due to naturally growing methods, they are free from chemical residues. They are used in curries, soups, stir-fry with rice, noodles and salads.",
-        "product_image" : "https://i.ibb.co/F6pPLQP/image.png"
+        "product_image" : "https://i.ibb.co/F6pPLQP/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 10,
@@ -107,7 +125,9 @@
         "original_price":18,
         "discounted_price":10,
         "product_description":"Lemon is a popular fruit that is used in small quantities to add flavor to food and brings joy to the palate and bliss to life. Lemons give flavor to baked goods, sauces, salad dressings, marinades, drinks, and desserts.",
-        "product_image" : "https://i.ibb.co/nLXJZm1/image.png"
+        "product_image" : "https://i.ibb.co/nLXJZm1/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 11,
@@ -118,7 +138,9 @@
         "original_price":28,
         "discounted_price":21,
         "product_description":"Coriander leaves are green, fragile with a decorative appearance. They contain minimal aroma and have a spicy sweet taste. Now do not bother wasting time cutting off the roots as we value your money and time and provide you the freshest leafy edible parts .",
-        "product_image" : "https://i.ibb.co/9WCZC3L/image.png"
+        "product_image" : "https://i.ibb.co/9WCZC3L/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 12,
@@ -129,7 +151,9 @@
         "original_price":32,
         "discounted_price":24,
         "product_description":"Firm and fibrous ginger roots are stretched with multiple fingers that have light to dark tan skin and rings on it and is aromatic, spicy and pungent. The flavour gets intensified when the ginger is dried and lessens when cooked.",
-        "product_image" : "https://i.ibb.co/vs6Q2xs/image.png"
+        "product_image" : "https://i.ibb.co/vs6Q2xs/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 13,
@@ -140,7 +164,9 @@
         "original_price":306,
         "discounted_price":172,
         "product_description":"Garlic is made of several heads wrapped in thin whitish layers. They are firm and have a mild flavour. Once crushed, they emit a strong and pungent aroma.",
-        "product_image" : "https://i.ibb.co/SB70RjZ/image.png"
+        "product_image" : "https://i.ibb.co/SB70RjZ/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 14,
@@ -151,7 +177,9 @@
         "original_price":17,
         "discounted_price":11,
         "product_description":"Curry leaves are an essential element of Indian cooking style where numerous of the traditional and modern recipes are imperfect without curry leaves. These are used as tasting agent in food for its different taste.",
-        "product_image" : "https://i.ibb.co/s3z4JSz/image.png"
+        "product_image" : "https://i.ibb.co/s3z4JSz/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 15,
@@ -162,7 +190,9 @@
         "original_price":56,
         "discounted_price":25,
         "product_description":"Relish juicy, crunchy and mildly salty flavoured celeries that are individually handpicked everyday by our trained farmers. Celeries have wide, green leaves attached to thick, juicy stalks joined at a common base.",
-        "product_image" : "https://i.ibb.co/kHgmv49/image.png"
+        "product_image" : "https://i.ibb.co/kHgmv49/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 16,
@@ -173,7 +203,9 @@
         "original_price":115,
         "discounted_price":84,
         "product_description":"The possible health benefits of consuming kale include improving blood glucose control in diabetics, lowering the risk of cancer, lowering blood pressure, improving bone health, lowering the risk of developing asthma and more.",
-        "product_image" : "https://i.ibb.co/Qjh2cDq/image.png"
+        "product_image" : "https://i.ibb.co/Qjh2cDq/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 17,
@@ -184,7 +216,9 @@
         "original_price":43,
         "discounted_price":32,
         "product_description":"Thai Sweet Basil. It has a sweet delicate flavor and aroma. It has shiny green, slightly serrated, narrow leaves with a sweet, anise-like scent. It has have antioxidants, anti-cancer properties, anti-viral, anti-bacterial, and anti-fungal properties.",
-        "product_image" : "https://i.ibb.co/7rHYGYC/image.png"
+        "product_image" : "https://i.ibb.co/7rHYGYC/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 18,
@@ -195,7 +229,9 @@
         "original_price":84,
         "discounted_price":62,
         "product_description":"Multi-Colored Swiss Chard contains the formula mix of hybrid and fake hybrid types. It is mild tasting and wholesome stalks cultivate in a rainbow of colors. It is a very superior resource of vitamins C, A & E, beta-carotene and the minerals zinc and manganese.",
-        "product_image" : "https://i.ibb.co/WgpBp7k/image.png"
+        "product_image" : "https://i.ibb.co/WgpBp7k/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 19,
@@ -206,7 +242,9 @@
         "original_price":30,
         "discounted_price":24,
         "product_description":"Mint leaves are tender herbs with gentle stems and have a distinct pleasant aroma, pleasing taste, cool after-sensation, and medicinal qualities.They are best used raw or added at the end of cooking in order to maintain their delicate flavor and texture.",
-        "product_image" : "https://i.ibb.co/PDjPhCZ/image.png"
+        "product_image" : "https://i.ibb.co/PDjPhCZ/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 20,
@@ -217,7 +255,9 @@
         "original_price":93,
         "discounted_price":79,
         "product_description":"Banganpalli are sourced from Andhra Pradesh and known for their unique sweet and rich taste. They are moderately juicy and aromatic with a maize-yellow colour.",
-        "product_image" : "https://i.ibb.co/pbqw0tp/image.png"
+        "product_image" : "https://i.ibb.co/pbqw0tp/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 21,
@@ -228,7 +268,9 @@
         "original_price":132,
         "discounted_price":115,
         "product_description":"With greenish black to smooth dark green surface,watermelons are globular in shape and are freshly picked for you directly from our farmers.The juicy, sweet and grainy textured flesh is filled with 12-14% of sugar content, making it a healthy alternative to sugary carbonated drinks. Flesh colour of these watermelons are pink to red with dark brown/black seeds.",
-        "product_image" : "https://i.ibb.co/RQnNzKK/image.png"
+        "product_image" : "https://i.ibb.co/RQnNzKK/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 22,
@@ -239,7 +281,9 @@
         "original_price":250,
         "discounted_price":234,
         "product_description":"With ruby color and an intense floral, sweet-tart flavor, the pomegranate delivers both taste and beauty. You can remove the skin and the membranes to get at the delicious fruit with nutty seeds.",
-        "product_image" : "https://i.ibb.co/QvP6K9Q/image.png"
+        "product_image" : "https://i.ibb.co/QvP6K9Q/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 23,
@@ -250,7 +294,9 @@
         "original_price":106,
         "discounted_price":78,
         "product_description":"Tiny and small sized, this variety is called Yelakki in Bangalore and Elaichi in Mumbai. Despite its small size, they are naturally flavoured, aromatic and sweeter compared to regular bananas. Yelakki bananas are around 3- 4 inches long and contain a thinner skin and better shelf life than Robusta bananas",
-        "product_image" : "https://i.ibb.co/gF4hHMy/image.png"
+        "product_image" : "https://i.ibb.co/gF4hHMy/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 24,
@@ -261,7 +307,9 @@
         "original_price":185,
         "discounted_price":154,
         "product_description":"Considered as most commonly grown apples in India, Shimla apples have a light red skin, juicy and crunchy flesh. We source the best apples with residue and wax free peel from the trusted growers.",
-        "product_image" : "https://i.ibb.co/6vXBJXf/image.png"
+        "product_image" : "https://i.ibb.co/6vXBJXf/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 25,
@@ -272,7 +320,9 @@
         "original_price":286,
         "discounted_price":231,
         "product_description":"Plump, smooth-skinned and indigo coloured perfect little globes of juicy berries have mostly sweet and slightly tart flavour. We have imported this fine quality, delicious tasting variety of blueberries",
-        "product_image" : "https://i.ibb.co/hWwhdMV/image.png"
+        "product_image" : "https://i.ibb.co/hWwhdMV/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 26,
@@ -283,7 +333,9 @@
         "original_price":192,
         "discounted_price":150,
         "product_description":"Kiwis are oval shaped with a brownish outer skin. The flesh is bright green and juicy with tiny, edible black seeds. With its distinct sweet-sour taste and a pleasant smell, it tastes like strawberry and honeydew melon.",
-        "product_image" : "https://i.ibb.co/BKHTszC/image.png"
+        "product_image" : "https://i.ibb.co/BKHTszC/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 27,
@@ -294,7 +346,9 @@
         "original_price":152,
         "discounted_price":131,
         "product_description":"Oranges, are known for their tangy sweet taste and juiciness. Oranges make the perfect snack and add a special tang to many recipes.",
-        "product_image" : "https://i.ibb.co/zFG3xLX/image.png"
+        "product_image" : "https://i.ibb.co/zFG3xLX/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 28,
@@ -305,7 +359,9 @@
         "original_price":193,
         "discounted_price":160,
         "product_description":"Green skinned and fleshy, Avocado (Butter Fruit) has a smooth texture and is widely used to make Mexican dips such as Guacamole. This exotic food is often used in the preparation of sweet and savoury dishes and can be eaten raw in salads or served with spices.",
-        "product_image" : "https://i.ibb.co/1ZFDb5c/image.png"
+        "product_image" : "https://i.ibb.co/1ZFDb5c/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 29,
@@ -316,7 +372,9 @@
         "original_price":75,
         "discounted_price":66,
         "product_description":"Soft and pulpy, Muskmelon has a soft consistency with a juicy texture. With thin pale green coloured skin and cluster of tiny seeds in the center, this succulent sweet tasting fruit can be used in making various shakes, salads and deserts.",
-        "product_image" : "https://i.ibb.co/7GK7kFN/image.png"
+        "product_image" : "https://i.ibb.co/7GK7kFN/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 30,
@@ -327,7 +385,9 @@
         "original_price":67,
         "discounted_price":58,
         "product_description":"Tender coconut is considered a healthy source of nutrition. It is a good refreshing drink to beat the hot summer heat and it is very low in caloric value.",
-        "product_image" : "https://i.ibb.co/MGk1Vn7/image.png"
+        "product_image" : "https://i.ibb.co/MGk1Vn7/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     }
     ,
     {
@@ -339,7 +399,9 @@
         "original_price":100,
         "discounted_price":32,
         "product_description":"Sprouts are an excellent source of antioxidants that protect us from the ongoing effects of aging and prevent cell destruction. Sprouts will be a perfect addition to your diet, because of its several nutritional constituents like vitamins and minerals. Sprouts are best when eaten raw and fresh.",
-        "product_image" : "https://i.ibb.co/SJKjbVk/image.png"
+        "product_image" : "https://i.ibb.co/SJKjbVk/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     }
     ,
     {
@@ -351,7 +413,9 @@
         "original_price":60,
         "discounted_price":44,
         "product_description":"Our uniformly and perfectly cut fresh ash gourds comes with a mild and soft texture. No more messy hands!",
-        "product_image" : "https://i.ibb.co/LCpSmnL/image.png"
+        "product_image" : "https://i.ibb.co/LCpSmnL/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     }
     ,
     {
@@ -363,7 +427,9 @@
         "original_price":80,
         "discounted_price":41,
         "product_description":"Sprouts are seeds that have been allowed to germinate into young plants. They are usually eaten raw and are available in a wide range of varieties.",
-        "product_image" : "https://i.ibb.co/qWHQctq/image.png"
+        "product_image" : "https://i.ibb.co/qWHQctq/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     }
     ,
     {
@@ -375,7 +441,9 @@
         "original_price":100,
         "discounted_price":32,
         "product_description":"Sprouts are seeds that have been allowed to germinate into young plants. They are usually eaten raw and are available in a wide range of varieties.",
-        "product_image" : "https://i.ibb.co/SdVkyrC/image.png"
+        "product_image" : "https://i.ibb.co/SdVkyrC/image.png",
+        "brand_name":"Fresho",
+        "brand_id":7
     },
     {
         "product_id" : 35,
@@ -386,7 +454,9 @@
         "original_price":125,
         "discounted_price":116,
         "product_description":"Aashirvaad Whole Wheat Atta has now become number one in branded packaged atta across the country. Behind every Aashirvaad pack are the Indian farmers and Aashirvaad experts who’ve made the atta with extra care. Aashirvaad prides itself in making 100% pure whole wheat atta with all its natural dietary fibres intact which ensure that you and your family receive optimum nutrition for a healthy life.",
-        "product_image" : "https://i.ibb.co/VBjXMwS/image.png"
+        "product_image" : "https://i.ibb.co/VBjXMwS/image.png",
+        "brand_name":"Aashirvaad",
+        "brand_id":8
     },
     {
         "product_id" : 36,
@@ -397,7 +467,9 @@
         "original_price":36,
         "discounted_price":33,
         "product_description":"This maka peeth from the house of has shelf life of 3 months. And has no artificial colors as well as no preservatives. Offers traditionally delicious authentic taste.",
-        "product_image" : "https://i.ibb.co/dMQW3ZY/image.png"
+        "product_image" : "https://i.ibb.co/dMQW3ZY/image.png",
+        "brand_name":"Bhagirathi",
+        "brand_id":9
     },
     {
         "product_id" : 37,
@@ -408,7 +480,9 @@
         "original_price":55,
         "discounted_price":47,
         "product_description":"Bajra flour is made from small round grains of black millet, also called bajra. The flour is greyish in colour and has a slightly nutty flavour. Since it is a heat-producing ingredient, it is commonly used in winters.",
-        "product_image" : "https://i.ibb.co/PDjPhCZ/image.png"
+        "product_image" : "https://i.ibb.co/4sK6HW5/image.png",
+        "brand_name":"Natureland",
+        "brand_id":10
     },
     {
         "product_id" : 38,
@@ -419,7 +493,9 @@
         "original_price":352,
         "discounted_price":311,
         "product_description":"Aashirvaad Atta with Multigrains is a high fibre atta that aids digestion. It's made with the choicest grains sourced from fields across India. It's made with 6 grains – wheat, maize, oats, soya, channa & psyllium husk. Just 3 rotis fulfill 35% of your daily fibre intake. Fibre content is same as in 6 carrots or 4 beetroots. Make chapatis, paranthas, pooris that taste just like your regular atta.",
-        "product_image" : "https://i.ibb.co/Fm3qpNs/image.png"
+        "product_image" : "https://i.ibb.co/Fm3qpNs/image.png",
+        "brand_name":"Aashirvaad",
+        "brand_id":8
     },
     {
         "product_id" : 39,
@@ -430,7 +506,9 @@
         "original_price":55,
         "discounted_price":53,
         "product_description":"Vijay Rice Flour is made from best-selected rice that is finely grounded into a fine flour. It is a common substitute for wheat flour. It is used as a thickening agent in many recipes.",
-        "product_image" : "https://i.ibb.co/phRQcxs/image.png"
+        "product_image" : "https://i.ibb.co/phRQcxs/image.png",
+        "brand_name" : "Vijay Foods",
+        "brand_id" : 11
     },
     {
         "product_id" : 40,
@@ -441,7 +519,9 @@
         "original_price":32,
         "discounted_price":30,
         "product_description":"Satyam Maida is a finely milled and refined wheat flour. Pure white in colour and sooth in texture, it is extensively used in making various kinds of Indian breads and several other baked confections.",
-        "product_image" : "https://i.ibb.co/fM6rgBc/image.png"
+        "product_image" : "https://i.ibb.co/fM6rgBc/image.png",
+        "brand_name" : "Satyam Foods",
+        "brand_id" : 12
     },
     {
         "product_id" : 41,
@@ -452,7 +532,9 @@
         "original_price":406,
         "discounted_price":357,
         "product_description":"Enhanced with an appetizing aroma that makes your meal more delicious than ever, Daawat Rozana Super Rice is a packet full of long-grained wonder.",
-        "product_image" : "https://i.ibb.co/HXwmzxN/image.png"
+        "product_image" : "https://i.ibb.co/HXwmzxN/image.png",
+        "brand_name" : "Daawat",
+        "brand_id" : 13
     },
     {
         "product_id" : 42,
@@ -463,7 +545,9 @@
         "original_price":110,
         "discounted_price":83,
         "product_description":"Every effort is made to maintain accuracy of all information. However, actual product packaging and materials may contain more and/or different information. It is recommended not to solely rely on the information presented.",
-        "product_image" : "https://i.ibb.co/xLTqbhm/image.png"
+        "product_image" : "https://i.ibb.co/xLTqbhm/image.png",
+        "brand_name" : "Kohinoor Foods Limited",
+        "brand_id" : 14
     },
     {
         "product_id" : 43,
@@ -474,7 +558,9 @@
         "original_price":96,
         "discounted_price":84,
         "product_description":"Poha is a much loved and eaten snack in India. With a dash of peanuts and curry leaves, it makes for a great breakfast option. Tata Sampann thick poha can be used to make a healthy snack as it uses minimal oil while roasting and is high in fibre which is an essential part of a healthy and balanced diet.",
-        "product_image" : "https://i.ibb.co/92f4wBr/image.png"
+        "product_image" : "https://i.ibb.co/92f4wBr/image.png",
+        "brand_name" : "TATA",
+        "brand_id" : 15
     },
     {
         "product_id" : 44,
@@ -485,7 +571,9 @@
         "original_price":816,
         "discounted_price":569,
         "product_description":"Sona Masoori Rice is medium-grain rice, cultivated mainly in the Indian states of Andhra Pradesh. It is healthy, lightweight and has a delicious aroma. It is easy to cook and tastes great when paired with curries and gravies.",
-        "product_image" : "https://i.ibb.co/smC6JxS/image.png"
+        "product_image" : "https://i.ibb.co/smC6JxS/image.png",
+        "brand_name" : "Daawat",
+        "brand_id" : 13
     },
     {
         "product_id" : 45,
@@ -496,7 +584,9 @@
         "original_price":78,
         "discounted_price":76,
         "product_description":"Vijay Thick Poha is flattened rice that has been flattened into flat, light, dry flakes. It has uneven edges and a rough texture, it doesn’t have a particular aroma and a bland gentle taste.",
-        "product_image" : "https://i.ibb.co/j57Kzf0/image.png"
+        "product_image" : "https://i.ibb.co/j57Kzf0/image.png",
+        "brand_name" : "Vijay Foods",
+        "brand_id" : 11
     },
     {
         "product_id" : 46,
@@ -507,7 +597,9 @@
         "original_price":45,
         "discounted_price":30,
         "product_description":"Light and crispy, 24 Mantra Puffed Rice is made from the finest quality, organically grown and processed rice. Commonly known as murmura, puffed rice taste delicious when mixed with raw salads and seasonings and are an easy to prepare, healthy snack.",
-        "product_image" : "https://i.ibb.co/Lrbz6Qc/image.png"
+        "product_image" : "https://i.ibb.co/Lrbz6Qc/image.png",
+        "brand_name" : "24 Mantra Organic",
+        "brand_id" : 16
     },
     {
         "product_id" : 47,
@@ -518,7 +610,9 @@
         "original_price":275,
         "discounted_price":190,
         "product_description":"Aashirvaad, a brand that you love and trust, ensures that good quality products reach your kitchen hence it brings to you a range of organic products that are certified by leading Organic product body.",
-        "product_image" : "https://i.ibb.co/nDWXRyP/image.png"
+        "product_image" : "https://i.ibb.co/nDWXRyP/image.png",
+        "brand_name" : "Aashirvaad",
+        "brand_id" : 8
     },
     {
         "product_id" : 48,
@@ -529,7 +623,9 @@
         "original_price":280,
         "discounted_price":241,
         "product_description":"Pulses are a boon to vegetarians and vegans. Legumes including Toor dal are of major importance in our diet contributing as the main source of plant protein. Among legumes, Toor dal is predominantly grown and consumed in India and is also known as red gram and arhar dal. We cannot find a kitchen in India without Toor dal.",
-        "product_image" : "https://i.ibb.co/BGbvNS1/image.png"
+        "product_image" : "https://i.ibb.co/BGbvNS1/image.png",
+        "brand_name" : "24 Mantra Organic",
+        "brand_id" : 16
     },
     {
         "product_id" : 49,
@@ -540,7 +636,9 @@
         "original_price":225,
         "discounted_price":144,
         "product_description":"Urad Dal is used for various purposes besides retaining the skins and also has a strong flavor. It provides nutrients, such as protein, fat, and carbohydrates, and is a rich source of proteins like iron, folic acid, calcium, magnesium, potassium, and B vitamins.",
-        "product_image" : "https://i.ibb.co/Mh6LKVq/image.png"
+        "product_image" : "https://i.ibb.co/Mh6LKVq/image.png",
+        "brand_name" : "Town Grocer",
+        "brand_id" : 17
     },
     {
         "product_id" : 50,
@@ -551,7 +649,9 @@
         "original_price":280,
         "discounted_price":193,
         "product_description":"Aashirvaad, a brand that you love and trust, ensures that good quality products reach your kitchen hence it brings to you a range of organic products that are certified by leading Organic product body.",
-        "product_image" : "https://i.ibb.co/tbXvRn0/image.png"
+        "product_image" : "https://i.ibb.co/tbXvRn0/image.png",
+        "brand_name" : "Aashirvaad",
+        "brand_id" : 8
     },
     {
         "product_id" : 51,
@@ -562,7 +662,9 @@
         "original_price":125,
         "discounted_price":94,
         "product_description":"Peanuts are rich in energy and contain health benefiting nutrients, minerals, antioxidants and vitamins that are essential for optimum health. They compose sufficient levels of monounsaturated fatty acids, especially oleic acid.",
-        "product_image" : "https://i.ibb.co/K0tnCfV/image.png"
+        "product_image" : "https://i.ibb.co/K0tnCfV/image.png",
+        "brand_name" : "Town Grocer",
+        "brand_id" : 17
     },
     {
         "product_id" : 52,
@@ -573,7 +675,9 @@
         "original_price":200,
         "discounted_price":138,
         "product_description":"Aashirvaad, a brand that you love and trust, ensures that good quality products reach your kitchen hence it brings to you a range of organic products that are certified by leading Organic product body.",
-        "product_image" : "https://i.ibb.co/xfQpZsC/image.png"
+        "product_image" : "https://i.ibb.co/xfQpZsC/image.png",
+        "brand_name" : "Aashirvaad",
+        "brand_id" : 8
     },
     {
         "product_id" : 53,
@@ -584,7 +688,9 @@
         "original_price":110,
         "discounted_price":80,
         "product_description":"Aashirvaad, a brand that you love and trust, ensures that good quality products reach your kitchen hence it brings to you a range of organic products that are certified by leading Organic product body.",
-        "product_image" : "https://i.ibb.co/wdrv1vV/image.png"
+        "product_image" : "https://i.ibb.co/wdrv1vV/image.png",
+        "brand_name" : "Aashirvaad",
+        "brand_id" : 8
     },
     {
         "product_id" : 54,
@@ -595,7 +701,9 @@
         "original_price":140,
         "discounted_price":121,
         "product_description":"Arhar Dal completes the Indian platter with its distinctive inherent flavor, fragrance and nutrition. These are wealthy source of protein and simple to digest and cook. It is tasty flavor and contains high nutritional value. It is simple to cook property.",
-        "product_image" : "https://i.ibb.co/7tmrgmh/image.png"
+        "product_image" : "https://i.ibb.co/7tmrgmh/image.png",
+        "brand_name" : "Fresho",
+        "brand_id" : 7
     },
     {
         "product_id" : 55,
@@ -606,7 +714,9 @@
         "original_price":175,
         "discounted_price":150,
         "product_description":"Masoor Dal provides nutrients such as Protein & Fibre. Made of select grains and recommended by Chef Sanjeev Kapoor and Chef Ranveer Brar, Tata Sampann Unpolished Masoor Dal makes for a delicious meal choice. So, whenever you are in the mood to cook something easy and delicious, dive into the scrumptious taste of Tata Sampann pulses, and enjoy a lovely meal!",
-        "product_image" : "https://i.ibb.co/HCJXMxF/image.png"
+        "product_image" : "https://i.ibb.co/HCJXMxF/image.png",
+        "brand_name" : "TATA",
+        "brand_id" : 15
     },
     {
         "product_id" : 56,
@@ -617,7 +727,9 @@
         "original_price":147,
         "discounted_price":130,
         "product_description":"Green Peas are small dark green colour pea mainly available in the winter seasons. Green Peas are a good source of iron, minerals, and Vitamins and fairly low in calories. You can enjoy the taste of Green peas in every season with these packed dried peas.",
-        "product_image" : "https://i.ibb.co/DMsGQDF/image.png"
+        "product_image" : "https://i.ibb.co/DMsGQDF/image.png",
+        "brand_name" : "Sumeru Foods",
+        "brand_id" : 18
     },
     {
         "product_id" : 57,
@@ -628,7 +740,9 @@
         "original_price":79,
         "discounted_price":60,
         "product_description":"Rajma is high in protein and a good source of cholesterol-lowering fiber. It is made into a delicious dal, commonly eaten with steamed rice. These are an outstanding supply of folate, manganese and dietary fibre. It is a fine supply of protein, phosphorus, copper, thiamine (vitamin B1), iron, potassium and magnesium.",
-        "product_image" : "https://i.ibb.co/Z83sKhM/image.png"
+        "product_image" : "https://i.ibb.co/Z83sKhM/image.png",
+        "brand_name" : "Sumeru Foods",
+        "brand_id" : 18
     },
     {
         "product_id" : 58,
@@ -639,7 +753,9 @@
         "original_price":99,
         "discounted_price":84,
         "product_description":"24 Mantra Red poha is prepared from trampled Organic red rice. The rice is easily digestible and is great for an evening or morning snacks. the rice used for this grown organically.",
-        "product_image" : "https://i.ibb.co/PFqqXvq/image.png"
+        "product_image" : "https://i.ibb.co/PFqqXvq/image.png",
+        "brand_name" : "24 Mantra Organic",
+        "brand_id" : 16
     },
     {
         "product_id" : 59,
@@ -650,7 +766,9 @@
         "original_price":480,
         "discounted_price":254,
         "product_description":"Fortune Sunflower Oil is a light, healthy and nutritious cooking oil. Being rich in vitamins and consisting mainly of polyunsaturated fatty acids, it makes food easy to digest. It helps to strengthen the immune system and good for heart health as well.",
-        "product_image" : "https://i.ibb.co/5TMkqLH/image.png"
+        "product_image" : "https://i.ibb.co/5TMkqLH/image.png",
+        "brand_name" : "Fortune Edible Oil and Foods",
+        "brand_id" : 19
     },
     {
         "product_id" : 60,
@@ -661,7 +779,9 @@
         "original_price":180,
         "discounted_price":118,
         "product_description":"This oil is a unique blend of 5 oils such as Sesame Oil, which mitigates evil, Coconut Oil helps in concentration and peace of mind, Mohua for Illupai - prosperity and Rice Bran Oil, which is the simplest offering to Goddess Annalakshmi.",
-        "product_image" : "https://i.ibb.co/ckh0pkG/image.png"
+        "product_image" : "https://i.ibb.co/ckh0pkG/image.png",
+        "brand_name" : "Anandam",
+        "brand_id" : 20
     },
     {
         "product_id" : 61,
@@ -672,7 +792,9 @@
         "original_price":425,
         "discounted_price":376,
         "product_description":"GRB Ghee is clarified butter that is usually prepared from cow's milk. It is the clean butterfat left over after the milk solids and water are removed from butter. Ghee is good supply of energy and gives energy to human body.",
-        "product_image" : "https://i.ibb.co/6HRsxGF/image.png"
+        "product_image" : "https://i.ibb.co/6HRsxGF/image.png",
+        "brand_name" : "GRB Dairy Foods",
+        "brand_id" : 21
     },
     {
         "product_id" : 62,
@@ -683,7 +805,9 @@
         "original_price":185,
         "discounted_price":134,
         "product_description":"Fortune Rice Bran Oil, 100% rice bran oil, had a superior content of Oryzanol. It is the healthiest ripe oil in India.",
-        "product_image" : "https://i.ibb.co/gz0jwLx/image.png"
+        "product_image" : "https://i.ibb.co/gz0jwLx/image.png",
+        "brand_name" : "Fortune Edible Oil and Foods",
+        "brand_id" : 19
     },
     {
         "product_id" : 63,
@@ -694,7 +818,9 @@
         "original_price":800,
         "discounted_price":699,
         "product_description":"Fresho brings you the best quality ghee in its purest form. It provides you with all the essential good fats that help maintain a healthy heart. Fresho's Pure Cow Desi Ghee is sure to enhance the taste of your dishes as it is made in a traditional home-style method and has no added preservatives or colors.",
-        "product_image" : "https://i.ibb.co/fCtF5Fb/image.png"
+        "product_image" : "https://i.ibb.co/fCtF5Fb/image.png",
+        "brand_name" : "Fresho",
+        "brand_id" : 7
     },
     {
         "product_id" : 64,
@@ -705,7 +831,9 @@
         "original_price":200,
         "discounted_price":163,
         "product_description":"A healthy heart is important for overall good health. Take small steps today to take care of your heart. Choose the right cooking oil. Saffola Gold can help keep your family heart healthy. It has a good balance of MUFA & PUFA and triple anti-oxidant system that helps improve immunity.",
-        "product_image" : "https://i.ibb.co/0CbgX4k/image.png"
+        "product_image" : "https://i.ibb.co/0CbgX4k/image.png",
+        "brand_name" : "Saffola",
+        "brand_id" : 22
     },
     {
         "product_id" : 65,
@@ -716,7 +844,9 @@
         "original_price":425,
         "discounted_price":319,
         "product_description":"Natureland Organic Groundnut Oil is sweet and flavorful peanut oil obtained from cold pressing peanuts, this oil has deep yellow color with pleasant nutty aroma and sweet taste with high energy.",
-        "product_image" : "https://i.ibb.co/3cnvyLG/image.png"
+        "product_image" : "https://i.ibb.co/3cnvyLG/image.png",
+        "brand_name" : "Natureland",
+        "brand_id" : 10
     },
     {
         "product_id" : 66,
@@ -727,7 +857,9 @@
         "original_price":145,
         "discounted_price":140,
         "product_description":"Organic Sugar",
-        "product_image" : "https://i.ibb.co/bBpTS6w/image.png"
+        "product_image" : "https://i.ibb.co/bBpTS6w/image.png",
+        "brand_name" : "24 Mantra Organic",
+        "brand_id" : 16
     },
     {
         "product_id" : 67,
@@ -738,7 +870,9 @@
         "original_price":28,
         "discounted_price":24,
         "product_description":"Desh ki Sehat, Desh ka Namak! Now celebrating 40 years of trust, Tata Salt has pioneered India’s largest vacuum evaporation technology. Untouched by hand, Tata Salt offers an assurance of Iodine.",
-        "product_image" : "https://i.ibb.co/m8vFgrB/image.png"
+        "product_image" : "https://i.ibb.co/m8vFgrB/image.png",
+        "brand_name" : "TATA",
+        "brand_id" : 15
     },
     {
         "product_id" : 68,
@@ -749,7 +883,9 @@
         "original_price":65,
         "discounted_price":53,
         "product_description":"Fortune brings you Pure and Hygienic sugar which is untouched by hands and made with No Sulphur process. Make sweets for occasions and enjoy the sweetness.",
-        "product_image" : "https://i.ibb.co/t2fMKhs/image.png"
+        "product_image" : "https://i.ibb.co/t2fMKhs/image.png",
+        "brand_name" : "Fortune Edible Oil and Foods",
+        "brand_id" : 19
     },
     {
         "product_id" : 69,
@@ -760,7 +896,9 @@
         "original_price":112,
         "discounted_price":99,
         "product_description":"Mother’s Choice Jaggery is a healthy alternative to white sugar to sweeten your dishes, it is processed from the best quality sugarcane and is free of harmful chemicals.",
-        "product_image" : "https://i.ibb.co/N695wKC/image.png"
+        "product_image" : "https://i.ibb.co/N695wKC/image.png",
+        "brand_name" : "Grofers",
+        "brand_id" : 23
     },
     {
         "product_id" : 70,
@@ -771,7 +909,9 @@
         "original_price":55,
         "discounted_price":42,
         "product_description":"Parry's Jaggery Powder is fine jaggery produced using the highest standards in hygiene. Produced in a modern factory, it is untouched by hand and is factory packed. It is easy to use, as it doesn't need to be graded, melted or strained.",
-        "product_image" : "https://i.ibb.co/F72sVwV/image.png"
+        "product_image" : "https://i.ibb.co/F72sVwV/image.png",
+        "brand_name" : "Parry's",
+        "brand_id" : 24
     },
     {
         "product_id" : 71,
@@ -782,7 +922,9 @@
         "original_price":25,
         "discounted_price":28,
         "product_description":"Aashirvaad ensures that only good quality ingredients reach your kitchen and Aashirvaad Iodised Salt stays true to that promise. Made from natural sea salt crystals with a 4-step advantage process, Aashirvaad Iodised Salt ensures that you and your family receive pure goodness of nature, daily.",
-        "product_image" : "https://i.ibb.co/WxMBZ2r/image.png"
+        "product_image" : "https://i.ibb.co/WxMBZ2r/image.png",
+        "brand_name" : "Aashirvaad",
+        "brand_id" : 8
     },
     {
         "product_id" : 72,
@@ -793,7 +935,9 @@
         "original_price":40,
         "discounted_price":35,
         "product_description":"MAGGI Magic Cubes are a unique blend of carefully selected spices and herbs of the finest quality.This secret ingredient adds a burst of rich, delightful taste and aroma to your everyday homemade dishes.",
-        "product_image" : "https://i.ibb.co/j8QMRpF/image.png"
+        "product_image" : "https://i.ibb.co/j8QMRpF/image.png",
+        "brand_name" : "Maggi",
+        "brand_id" : 25
     },
     {
         "product_id" : 73,
@@ -804,7 +948,9 @@
         "original_price":64,
         "discounted_price":50,
         "product_description":"Authentic blend of spices. Imparts a rich flavour, colour and aroma. Used in preparing delectable chicken gravies or curries, dishes etc.",
-        "product_image" : "https://i.ibb.co/ByLBt9X/image.png"
+        "product_image" : "https://i.ibb.co/ByLBt9X/image.png",
+        "brand_name" : "Suhana",
+        "brand_id" : 26
     },
     {
         "product_id" : 74,
@@ -815,7 +961,9 @@
         "original_price":85,
         "discounted_price":75,
         "product_description":"Part of the Culinary legacy of the Mughal Empire, Biryani is made with fragrant long grain basamati rice, and meat or vegetables marinated in yoghurt and multitude of spices.",
-        "product_image" : "https://i.ibb.co/njQ76fx/image.png"
+        "product_image" : "https://i.ibb.co/njQ76fx/image.png",
+        "brand_name" : "Suhana",
+        "brand_id" : 26
     },
     {
         "product_id" : 75,
@@ -826,7 +974,9 @@
         "original_price":85,
         "discounted_price":76,
         "product_description":"Everest Sambhar Masala uses a unique blend of spices to provide teh authentic flavour of south Indian delicacy sambhar. This ready to use powder is ideal for the modern kitchen.",
-        "product_image" : "https://i.ibb.co/CtG942j/image.png"
+        "product_image" : "https://i.ibb.co/CtG942j/image.png",
+        "brand_name" : "Everest Spices",
+        "brand_id" : 27
     },
     {
         "product_id" : 76,
@@ -837,7 +987,9 @@
         "original_price":100,
         "discounted_price":88,
         "product_description":"Everest chicken masala is the ultimate spice for preparing delectable chicken curry that gives the right balance between the spice-elements and other ingredients in the dish.",
-        "product_image" : "https://i.ibb.co/C8M7KF0/image.png"
+        "product_image" : "https://i.ibb.co/C8M7KF0/image.png",
+        "brand_name" : "Everest Spices",
+        "brand_id" : 27
     },
     {
         "product_id" : 77,
@@ -848,7 +1000,9 @@
         "original_price":106,
         "discounted_price":94,
         "product_description":"Everest Garam Masala is a select blend of 13 spices true to traditional and authentic taste. Garam Masala is known world over as a go to flavour enhancer in Indian cuisine.",
-        "product_image" : "https://i.ibb.co/2qsdY4G/image.png"
+        "product_image" : "https://i.ibb.co/2qsdY4G/image.png",
+        "brand_name" : "Everest Spices",
+        "brand_id" : 27
     },
     {
         "product_id" : 78,
@@ -859,7 +1013,9 @@
         "original_price":100,
         "discounted_price":77,
         "product_description":"Jeera has been a staple spice in Indian dishes for centuries. It is packed with aroma-locked packaging technology to keep its natural aroma and flavour intact.",
-        "product_image" : "https://i.ibb.co/8dJ7qVq/image.png"
+        "product_image" : "https://i.ibb.co/8dJ7qVq/image.png",
+        "brand_name" : "Catch Foods",
+        "brand_id" : 28
     },
     {
         "product_id" : 79,
@@ -870,7 +1026,9 @@
         "original_price":100,
         "discounted_price":75,
         "product_description":"Fill your kitchen with Catch Cumin Powder’s fragrance. Be it chaats, raita or curries, it is ideal for preparing several dishes at home. An authentic aroma of Cumin powder is simply beyond comparison.",
-        "product_image" : "https://i.ibb.co/H43pkcc/image.png"
+        "product_image" : "https://i.ibb.co/H43pkcc/image.png",
+        "brand_name" : "Catch Foods",
+        "brand_id" : 28
     },
     {
         "product_id" : 80,
@@ -881,7 +1039,9 @@
         "original_price":35,
         "discounted_price":33,
         "product_description":"One of the main ingredients that gives Indian food its taste, the Everest Turmeric Powder/Haldi adds an earthy flavour and lovely yellow colour to the food. The rich colour imparts a golden-yellow colour to all broths and curries.",
-        "product_image" : "https://i.ibb.co/YX48st3/image.png"
+        "product_image" : "https://i.ibb.co/YX48st3/image.png",
+        "brand_name" : "Everest Spices",
+        "brand_id" : 27
     },
     {
         "product_id" : 81,
@@ -892,7 +1052,9 @@
         "original_price":130,
         "discounted_price":124,
         "product_description":"Adding a spicy twist to everyday recipes, Everest Kashmiri Red Chilli Powder is a finely ground chilli powder that is used to add a rich colour and flavour to gravy and curry dishes.",
-        "product_image" : "https://i.ibb.co/VL7mhNj/image.png"
+        "product_image" : "https://i.ibb.co/VL7mhNj/image.png",
+        "brand_name" : "Everest Spices",
+        "brand_id" : 27
     },
     {
         "product_id" : 82,
@@ -903,7 +1065,9 @@
         "original_price":299,
         "discounted_price":279,
         "product_description":"Milky Mist offers freshly made paneer in a hygienic method of packing with multilayer thermo-forming packaging. Panner are a good source of protein, especially to the vegetarian diet, it has a sufficient amount of calcium, Milky Mist Panner is a great value addition to multi-cuisine recipes. Also, Helps in building a strong immune system and aids in good digestion.",
-        "product_image" : "https://i.ibb.co/mJTZq1c/image.png"
+        "product_image" : "https://i.ibb.co/mJTZq1c/image.png",
+        "brand_name" : "Milky Mist",
+        "brand_id" : 29
     },
     {
         "product_id" : 83,
@@ -914,7 +1078,9 @@
         "original_price":80,
         "discounted_price":72,
         "product_description":"Amul Taaza Homogenized Toned Milk is fully wholesome and entirely luscious. It has a low-fat, low-carb, low-calorie and standard protein content. It continues fresh for 2 days after opening if kept in refrigerator. No water or powder added, no preservative / chemical, easy to carry and use on traveling. It does not have germs as it is pasteurized and therefore hygienic.",
-        "product_image" : "https://i.ibb.co/6BPg1XY/image.png"
+        "product_image" : "https://i.ibb.co/6BPg1XY/image.png",
+        "brand_name" : "Amul",
+        "brand_id" : 1
     },
     {
         "product_id" : 84,
@@ -925,7 +1091,9 @@
         "original_price":224,
         "discounted_price":210,
         "product_description":"Pasteurized Amul butter is a delicious bread spread, an essential ingredient of baking and a known enhancer for many food items. This smooth creamy chunk from the house of Amul can be added to sauce, Indian gravy and baked products.",
-        "product_image" : "https://i.ibb.co/hFwM5Mg/image.png"
+        "product_image" : "https://i.ibb.co/hFwM5Mg/image.png",
+        "brand_name" : "Amul",
+        "brand_id" : 1
     },
     {
         "product_id" : 85,
@@ -936,7 +1104,9 @@
         "original_price":70,
         "discounted_price":66,
         "product_description":"Amul Masti Buttermilk is a refreshing milk based natural drink. It is easy to use a low-calorie drink that refreshes you immediately with the goodness of nature. To be taken directly on move (small pack) or at home, parties, picnics etc. (family pack). it is tasted best when chilled.",
-        "product_image" : "https://i.ibb.co/m02tfgh/image.png"
+        "product_image" : "https://i.ibb.co/m02tfgh/image.png",
+        "brand_name" : "Amul",
+        "brand_id" : 1
     },
     {
         "product_id" : 86,
@@ -947,7 +1117,9 @@
         "original_price":140,
         "discounted_price":131,
         "product_description":"Amul Cheese can enhance the taste of any dish, whether you consume it whole or melt it in your food. Amul Cheese Processed Cheese Spread is made from high-quality ingredients and is prepared using graded cow/buffalo milk and microbial rennet. It can be used in hundreds of ways in any dish. It's delicately flavoured gives a lip-smacking flavour to every dish. Cheese is a delicious component and is used to prepare sweet dishes.",
-        "product_image" : "https://i.ibb.co/FbbTGmJ/image.png"
+        "product_image" : "https://i.ibb.co/FbbTGmJ/image.png",
+        "brand_name" : "Amul",
+        "brand_id" : 1
     },
     {
         "product_id" : 87,
@@ -958,7 +1130,9 @@
         "original_price":40,
         "discounted_price":31,
         "product_description":"Fortified with essential nutrients like Calcium and vitamins. It has 30% more Calcium than Cows Milk. • The awesome, Fun Chocolate wala taste and Doodh ki shakti in one package!!! • Taste of Hersheys World-Famous Chocolates",
-        "product_image" : "https://i.ibb.co/GdkP0gZ/image.png"
+        "product_image" : "https://i.ibb.co/GdkP0gZ/image.png",
+        "brand_name" : "Hersheys",
+        "brand_id" : 30
     },
     {
         "product_id" : 88,
@@ -969,7 +1143,9 @@
         "original_price":40,
         "discounted_price":33,
         "product_description":"Treat yourself to an exciting tasteful adventure and discover the wonders of Milk in every sip. Sunfeast Chocolate Shake with Real Belgian Chocolate is a wonderful blend of the goodness of milk, nuts, and real Belgian chocolate.",
-        "product_image" : "https://i.ibb.co/mv2N7D4/image.png"
+        "product_image" : "https://i.ibb.co/mv2N7D4/image.png",
+        "brand_name" : "Sunfeast",
+        "brand_id" : 31
     },
     {
         "product_id" : 89,
@@ -980,7 +1156,9 @@
         "original_price":155,
         "discounted_price":131,
         "product_description":"Want to do more with your day? Make the Vanilla flavored SOFIT a part of your balanced diet and have the energy to do more! SOFIT Soya Milk is a Delicious Healthy Drink for everyone in the Family. Enriched with Soy Proteins, Omega-3, Vitamins & Calcium, it gives you Healthy Energy to do more.",
-        "product_image" : "https://i.ibb.co/80G9BKt/image.png"
+        "product_image" : "https://i.ibb.co/80G9BKt/image.png",
+        "brand_name" : "Hersheys",
+        "brand_id" : 30
     },
     {
         "product_id" : 90,
@@ -991,7 +1169,9 @@
         "original_price":300,
         "discounted_price":270,
         "product_description":"So Good Unsweetened Soy Beverage is a unique formulation that extracts plant-based milk from the whole Soybean. So Good Soy Beverage is plant-based milk and has no gluten or lactose in it.",
-        "product_image" : "https://i.ibb.co/gFD2G32/image.png"
+        "product_image" : "https://i.ibb.co/gFD2G32/image.png",
+        "brand_name" : "Life Health Foods",
+        "brand_id" : 32
     },
     {
         "product_id" : 91,
@@ -1002,7 +1182,9 @@
         "original_price":99,
         "discounted_price":50,
         "product_description":"Tofu from fresh soybean curd without any preservatives. It is naturally gluten-free and low in calories. It is an important source of protein, especially. This can be enjoyed are vegans and vegetarians. It has good unsaturated fat.",
-        "product_image" : "https://i.ibb.co/NjX84V8/image.png"
+        "product_image" : "https://i.ibb.co/NjX84V8/image.png",
+        "brand_name" : "Milky Mist",
+        "brand_id" : 29
     },
     {
         "product_id" : 92,
@@ -1013,7 +1195,9 @@
         "original_price":150,
         "discounted_price":145,
         "product_description":"So Good Unsweetened Soy Beverage is a unique formulation that extracts plant-based milk from the whole Soybean. So Good Soy Beverage is plant-based milk and has no gluten or lactose in it. Moreover, it is high in plant-based protein and essential amino acids which are required for a well-balanced diet.",
-        "product_image" : "https://i.ibb.co/5Ysw0dV/image.png"
+        "product_image" : "https://i.ibb.co/5Ysw0dV/image.png",
+        "brand_name" : "Life Health Foods",
+        "brand_id" : 32
     },
     {
         "product_id" : 93,
@@ -1024,7 +1208,9 @@
         "original_price":325,
         "discounted_price":227,
         "product_description":"Epigamia introduces a range of dairy-free almond drinks fortified with calcium and vitamins, a perfect balance of health and taste. Epigamia Almond Milk is plant-based, gluten-free and has zero preservatives, and zero added sugar.",
-        "product_image" : "https://i.ibb.co/s33q21H/image.png"
+        "product_image" : "https://i.ibb.co/s33q21H/image.png",
+        "brand_name" : "Epigamia",
+        "brand_id" : 33
     },
     {
         "product_id" : 94,
@@ -1035,7 +1221,9 @@
         "original_price":325,
         "discounted_price":295,
         "product_description":"ONLY EARTH Oat Beverage is a nutritious plant-based beverage with rich Oat Flavor and creamy texture, Essentials are completely Vegan, Soya Free, Lactose-Free, No Trans Fats, No Added Sugar & Preservatives, Cholesterol Free and Guilt-Free, It is a good source of Calcium, Vitamin D, B2 and B12 and fortified with many other Vitamins and Minerals",
-        "product_image" : "https://i.ibb.co/HKmLsxt/image.png"
+        "product_image" : "https://i.ibb.co/HKmLsxt/image.png",
+        "brand_name" : "Only Earth",
+        "brand_id" : 34
     },
     {
         "product_id" : 95,
@@ -1045,8 +1233,10 @@
         "product_quantity":"1 L",
         "original_price":250,
         "discounted_price":230,
-        "product_description":"",
-        "product_image" : "https://i.ibb.co/b1B46L3/image.png"
+        "product_description":"A handful of nuts in every single glass. Start the day the right way with a glass of nutrient-packed Borges nut milk. Made with nuts from our own trees, it will win over milk and other plant-based beverage drinkers with its amazing natural taste, smooth texture and great nutritional benefits.",
+        "product_image" : "https://i.ibb.co/b1B46L3/image.png",
+        "brand_name" : "Borges",
+        "brand_id" : 35
     },
     {
         "product_id" : 96,
@@ -1057,7 +1247,9 @@
         "original_price":125,
         "discounted_price":101,
         "product_description":"Freshly Baked bread is one of lifes greatest simple pleasures and at Smallbasket we decided to give you just that. We start baking our breads once you order using the finest ingredients available. At Smallbasket were passionate about making bread extra special, so we hope youll enjoy eating it as much as we enjoyed baking it. We recommend you consume this bread within 2 days or refrigerate if you intend to use it longer.",
-        "product_image" : "https://i.ibb.co/b1B46L3/image.png"
+        "product_image" : "https://i.ibb.co/LxmJ4th/image.png",
+        "brand_name" : "Fresho",
+        "brand_id" : 7
     },
     {
         "product_id" : 97,
@@ -1068,7 +1260,9 @@
         "original_price":70,
         "discounted_price":55,
         "product_description":"English Oven's Healthy n Natural daily bread",
-        "product_image" : "https://i.ibb.co/nsYH41v/image.png"
+        "product_image" : "https://i.ibb.co/nsYH41v/image.png",
+        "brand_name" : "English Oven",
+        "brand_id" : 36
     },
     {
         "product_id" : 98,
@@ -1079,7 +1273,9 @@
         "original_price":65,
         "discounted_price":55,
         "product_description":"Milled from 100% whole grains of wheat, this bread is low in saturated fat and doubles up as a good source of fibre. Whether you live to eat or eat to live, it’s best when it’s done right. Britannia’s range of wholesome and delicious bread is filled with the goodness you need to keep your body healthy and happy.",
-        "product_image" : "https://i.ibb.co/YtTjVVh/image.png"
+        "product_image" : "https://i.ibb.co/YtTjVVh/image.png",
+        "brand_name" : "Britannia",
+        "brand_id" : 37
     },
     {
         "product_id" : 99,
@@ -1090,7 +1286,9 @@
         "original_price":49,
         "discounted_price":44,
         "product_description":"Fresh, soft and fluffy, this is all bread lovers ask for. Fresho Pav - Safe, Preservative Free is just that. As the name suggests, if preservative-free, trans-fat-free and absolutely delicious. Pair them with your favourite curries, stuff them with your favourite veggies or just toast them with butter and relish fluffy goodness.",
-        "product_image" : "https://i.ibb.co/1XSLrrw/image.png"
+        "product_image" : "https://i.ibb.co/1XSLrrw/image.png",
+        "brand_name" : "Fresho",
+        "brand_id" : 7
     },
     {
         "product_id" : 100,
@@ -1101,7 +1299,9 @@
         "original_price":25,
         "discounted_price":20,
         "product_description":"Every bun has a story - Did you know- our bakeries produce the most burger buns in the country!!. The finely baked Buns sprinkled with sesame are made to deliver Burgers that are synonymous to being fabulous. The subtle flavour and golden crust is sure to be quite a treat to your appetite.",
-        "product_image" : "https://i.ibb.co/wNzjZ5X/image.png"
+        "product_image" : "https://i.ibb.co/wNzjZ5X/image.png",,
+        "brand_name" : "English Oven",
+        "brand_id" : 36
     },
     {
         "product_id" : 101,
@@ -1112,7 +1312,9 @@
         "original_price":45,
         "discounted_price":42,
         "product_description":"Britannia Toastea Premium Bake Rusk with the goodness of wheat has been a traditional tea companion and is loved by many. It is as crispy as your traditional rusk, but with a hint of elaichi and the right amount of sweetness: its taste will leave you amazed.",
-        "product_image" : "https://i.ibb.co/NSFKGYL/image.png"
+        "product_image" : "https://i.ibb.co/NSFKGYL/image.png",
+        "brand_name" : "Britannia",
+        "brand_id" : 37
     },
     {
         "product_id" : 102,
@@ -1123,7 +1325,9 @@
         "original_price":55,
         "discounted_price":39,
         "product_description":"The perfect snack for a sweet tooth. Tasties Suji and Elaichi rusk bring a whole new flavour and texture to this baked goodie. Made from the freshest of ingredients, the rusk is a must-try for you and your family. Cardamom, known for its soothing and subtle zest adds magic to the rusk and makes anyone go yumm.. after every bite.",
-        "product_image" : "https://i.ibb.co/26GqNDZ/image.png"
+        "product_image" : "https://i.ibb.co/26GqNDZ/image.png",
+        "brand_name" : "Tasties",
+        "brand_id" : 38
     },
     {
         "product_id" : 103,
@@ -1134,7 +1338,9 @@
         "original_price":60,
         "discounted_price":46,
         "product_description":"Malkist is an incredibly unique cracker with each biscuit made of 7 crunchy layers. It comes with delicious and innovative toppings like Cheese, Chocolate, Cappuccino, and Caramelized Sugar make it irresistible.",
-        "product_image" : "https://i.ibb.co/SBYzdVS/image.png"
+        "product_image" : "https://i.ibb.co/SBYzdVS/image.png",
+        "brand_name" : "Malkist",
+        "brand_id" : 39
     },
     {
         "product_id" : 104,
