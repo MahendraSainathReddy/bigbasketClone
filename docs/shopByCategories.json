@@ -192,6 +192,10 @@
             {
                 "sub_category_id": 37,
                 "sub_category_name": "Snacks"
+            },
+            {
+                "sub_category_id": 38,
+                "sub_category_name": "Condoms"
             }
         ]
     }
