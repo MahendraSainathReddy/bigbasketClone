@@ -183,5 +183,445 @@
         "brand_name" : "Britannia",
         "brand_id" : 37,
         "brand_image" : "https://i.ibb.co/G90HnSN/image.png"
+    },
+    {
+        "brand_name" : "Tasties",
+        "brand_id" : 38,
+        "brand_image" : "https://i.ibb.co/FJXGcjt/image.png"
+    },
+    {
+        "brand_name" : "Cadbury",
+        "brand_id" : 39,
+        "brand_image" : "https://i.ibb.co/Ntgfjhy/image.png"
+    },
+    {
+        "brand_name" : "Elite Foods",
+        "brand_id" : 40,
+        "brand_image" : "https://i.ibb.co/4PVJ7q9/image.png"
+    },
+    {
+        "brand_name" : "Winkies",
+        "brand_id" : 41,
+        "brand_image" : "https://i.ibb.co/n1m3NGd/image.png"
+    },
+    {
+        "brand_name" : "Bauli",
+        "brand_id" : 42,
+        "brand_image" : "https://i.ibb.co/mFJwk4t/image.png"
+    },
+    {
+        "brand_name" : "Hangyo",
+        "brand_id" : 43,
+        "brand_image" : "https://i.ibb.co/C8mpst7/image.png"
+    },
+    {
+        "brand_name" : "Kwality Walls",
+        "brand_id" : 44,
+        "brand_image" : "https://i.ibb.co/1fd2bLY/image.png"
+    },
+    {
+        "brand_name" : "Kinley",
+        "brand_id" : 45,
+        "brand_image" : "https://i.ibb.co/h7xZ0qB/image.png"
+    },
+    {
+        "brand_name" : "Pepsi",
+        "brand_id" : 46,
+        "brand_image" : "https://i.ibb.co/4ppZRyr/image.png"
+    },
+    {
+        "brand_name" : "Sprite",
+        "brand_id" : 47,
+        "brand_image" : "https://i.ibb.co/X3CWGcY/image.png"
+    },
+    {
+        "brand_name" : "Red Bull",
+        "brand_id" : 48,
+        "brand_image" : "https://i.ibb.co/K0G3tP3/image.png"
+    },
+    {
+        "brand_name" : "Schweppes",
+        "brand_id" : 49,
+        "brand_image" : "https://i.ibb.co/DkcD7cV/image.png"
+    },
+    {
+        "brand_name" : "Brooke Bond",
+        "brand_id" : 50,
+        "brand_image" : "https://i.ibb.co/tqQGmt3/image.png"
+    },
+    {
+        "brand_name" : "Lipton",
+        "brand_id" : 51,
+        "brand_image" : "https://i.ibb.co/JjLQMrn/image.png"
+    },
+    {
+        "brand_name" : "Wagh Bakri",
+        "brand_id" : 52,
+        "brand_image" : "https://i.ibb.co/dmmN12f/image.png"
+    },
+    {
+        "brand_name" : "Cothas Coffee",
+        "brand_id" : 53,
+        "brand_image" : "https://i.ibb.co/2gLMP0C/image.png"
+    },
+    {
+        "brand_name" : "Bru Coffee",
+        "brand_id" : 54,
+        "brand_image" : "https://i.ibb.co/QbSfd35/image.png"
+    },
+    {
+        "brand_name" : "Nescafé",
+        "brand_id" : 55,
+        "brand_image" : "https://i.ibb.co/xCdJYkG/image.png"
+    },
+    {
+        "brand_name" : "Bayars Coffee",
+        "brand_id" : 56,
+        "brand_image" : "https://i.ibb.co/VjpsHWT/image.png"
+    },
+    {
+        "brand_name" : "Continental Coffee",
+        "brand_id" : 57,
+        "brand_image" : "https://i.ibb.co/PW2p6zk/image.png"
+    },
+    {
+        "brand_name" : "Parle Agro",
+        "brand_id" : 58,
+        "brand_image" : "https://i.ibb.co/j43cPfW/image.png"
+    },
+    {
+        "brand_name" : "7 UP",
+        "brand_id" : 59,
+        "brand_image" : "https://i.ibb.co/hYxK601/image.png"
+    },
+    {
+        "brand_name" : "Paper Boat Foods",
+        "brand_id" : 60,
+        "brand_image" : "https://i.ibb.co/3RWGYjR/image.png"
+    },
+    {
+        "brand_name" : "Tropicana",
+        "brand_id" : 61,
+        "brand_image" : "https://i.ibb.co/zHrpQ8M/image.png"
+    },
+    {
+        "brand_name" : "Maaza",
+        "brand_id" : 62,
+        "brand_image" : "https://i.ibb.co/1qWtDMq/image.png"
+    },
+    {
+        "brand_name" : "Raw Pressery",
+        "brand_id" : 63,
+        "brand_image" : "https://i.ibb.co/tQtTynf/image.png"
+    },
+    {
+        "brand_name" : "Tang",
+        "brand_id" : 64,
+        "brand_image" : "https://i.ibb.co/RH4Ykyc/image.png"
+    },
+    {
+        "brand_name" : "Farm Made Foods",
+        "brand_id" : 65,
+        "brand_image" : "https://i.ibb.co/6FpD885/image.png"
+    },
+    {
+        "brand_name" : "SKM Best Eggs",
+        "brand_id" : 66,
+        "brand_image" : "https://i.ibb.co/Pj8BcKV/image.png"
+    },
+    {
+        "brand_name" : "Eggoz",
+        "brand_id" : 67,
+        "brand_image" : "https://i.ibb.co/Fm1SkvS/image.png"
+    },
+    {
+        "brand_name" : "UPF Healthy Eggs",
+        "brand_id" : 68,
+        "brand_image" : "https://i.ibb.co/B3h1C0G/image.png"
+    },
+    {
+        "brand_name" : "SFP Foods",
+        "brand_id" : 69,
+        "brand_image" : "https://i.ibb.co/jG4BNGL/image.png"
+    },
+    {
+        "brand_name" : "Meatzza",
+        "brand_id" : 70,
+        "brand_image" : "https://i.ibb.co/BCjgd0x/image.png"
+    },
+    {
+        "brand_name" : "Real Good Chicken",
+        "brand_id" : 71,
+        "brand_image" : "https://i.ibb.co/Gv2LVDw/image.png"
+    },
+    {
+        "brand_name" : "Licious",
+        "brand_id" : 72,
+        "brand_image" : "https://i.ibb.co/mcbjNHT/image.png"
+    },
+    {
+        "brand_name" : "Pescafresh",
+        "brand_id" : 73,
+        "brand_image" : "https://i.ibb.co/5cpGFYw/image.png"
+    },
+    {
+        "brand_name" : "La Carne Cuts",
+        "brand_id" : 74,
+        "brand_image" : "https://i.ibb.co/pwG0903/image.png"
+    },
+    {
+        "brand_name" : "Ecofarm",
+        "brand_id" : 75,
+        "brand_image" : "https://i.ibb.co/55cj9xy/image.png"
+    },
+    {
+        "brand_name" : "Big Sam's Foods",
+        "brand_id" : 76,
+        "brand_image" : "https://i.ibb.co/BnHr0fJ/image.png"
+    },
+    {
+        "brand_name" : "The Good Fish Co.",
+        "brand_id" : 77,
+        "brand_image" : "https://i.ibb.co/0pL1b82/image.png"
+    },
+    {
+        "brand_name" : "SeaStar",
+        "brand_id" : 78,
+        "brand_image" : "https://i.ibb.co/xSWD2JB/image.png"
+    },
+    {
+        "brand_name" : "Colgate",
+        "brand_id" : 79,
+        "brand_image" : "https://i.ibb.co/CzRXkJR/image.png"
+    },
+    {
+        "brand_name" : "Patanjali",
+        "brand_id" : 80,
+        "brand_image" : "https://i.ibb.co/KW2VwXM/image.png"
+    },
+    {
+        "brand_name" : "Listerine",
+        "brand_id" : 81,
+        "brand_image" : "https://i.ibb.co/dD8Z745/image.png"
+    },
+    {
+        "brand_name" : "Dabur",
+        "brand_id" : 82,
+        "brand_image" : "https://i.ibb.co/rtxjcjW/image.png"
+    },
+    {
+        "brand_name" : "Oral B",
+        "brand_id" : 83,
+        "brand_image" : "https://i.ibb.co/6rPbYDx/image.png"
+    },
+    {
+        "brand_name" : "Whisper",
+        "brand_id" : 84,
+        "brand_image" : "https://i.ibb.co/zVmQR8P/image.png"
+    },
+    {
+        "brand_name" : "Stayfree",
+        "brand_id" : 85,
+        "brand_image" : "https://i.ibb.co/x22sx0t/image.png"
+    },
+    {
+        "brand_name" : "Sofy",
+        "brand_id" : 86,
+        "brand_image" : "https://i.ibb.co/fHLqjjj/image.png"
+    },
+    {
+        "brand_name" : "Veet",
+        "brand_id" : 87,
+        "brand_image" : "https://i.ibb.co/k9Z2HkX/image.png"
+    },
+    {
+        "brand_name" : "Gillette",
+        "brand_id" : 88,
+        "brand_image" : "https://i.ibb.co/3rjnLLS/image.png"
+    },
+    {
+        "brand_name" : "Parachute",
+        "brand_id" : 89,
+        "brand_image" : "https://i.ibb.co/njD8HM2/image.png"
+    },
+    {
+        "brand_name" : "Sunsilk",
+        "brand_id" : 90,
+        "brand_image" : "https://i.ibb.co/TRQDpgK/image.png"
+    },
+    {
+        "brand_name" : "Clinic Plus",
+        "brand_id" : 91,
+        "brand_image" : "https://i.ibb.co/0hWTSnj/image.png"
+    },
+    {
+        "brand_name" : "Indulekha",
+        "brand_id" : 92,
+        "brand_image" : "https://i.ibb.co/pZP0P9Z/image.png"
+    },
+    {
+        "brand_name" : "Hair & Care",
+        "brand_id" : 93,
+        "brand_image" : "https://i.ibb.co/pK7HgP1/image.png"
+    },
+    {
+        "brand_name" : "Bajaj Almond",
+        "brand_id" : 94,
+        "brand_image" : "https://i.ibb.co/Xszvkpv/image.png"
+    },
+    {
+        "brand_name" : "Navratna",
+        "brand_id" : 95,
+        "brand_image" : "https://i.ibb.co/Jt8d9HG/image.png"
+    },
+    {
+        "brand_name" : "Cinthol",
+        "brand_id" : 96,
+        "brand_image" : "https://i.ibb.co/Bjf4qFh/image.png"
+    },
+    {
+        "brand_name" : "AXE",
+        "brand_id" : 97,
+        "brand_image" : "https://i.ibb.co/0htcJ9g/image.png"
+    },
+    {
+        "brand_name" : "Nivea",
+        "brand_id" : 98,
+        "brand_image" : "https://i.ibb.co/6Wh6hXF/image.png"
+    },
+    {
+        "brand_name" : "Vaseline",
+        "brand_id" : 99,
+        "brand_image" : "https://i.ibb.co/27YwSSS/image.png"
+    },
+    {
+        "brand_name" : "Himalaya Personal Care",
+        "brand_id" : 100,
+        "brand_image" : "https://i.ibb.co/rKBHMLd/image.png"
+    },
+    {
+        "brand_name" : "Pond's",
+        "brand_id" : 101,
+        "brand_image" : "https://i.ibb.co/qjNwKV8/image.png"
+    },
+    {
+        "brand_name" : "Bio-Oil",
+        "brand_id" : 102,
+        "brand_image" : "https://i.ibb.co/8gqrJmR/image.png"
+    },
+    {
+        "brand_name" : "Skin Q",
+        "brand_id" : 103,
+        "brand_image" : "https://i.ibb.co/hHkWxtV/image.png"
+    },
+    {
+        "brand_name" : "Rexona",
+        "brand_id" : 104,
+        "brand_image" : "https://i.ibb.co/nL65hf8/image.png"
+    },
+    {
+        "brand_name" : "Engage",
+        "brand_id" : 105,
+        "brand_image" : "https://i.ibb.co/mzf1QV3/image.png"
+    },
+    {
+        "brand_name" : "Yardley London",
+        "brand_id" : 106,
+        "brand_image" : "https://i.ibb.co/Z2L7240/image.png"
+    },
+    {
+        "brand_name" : "Spinz",
+        "brand_id" : 107,
+        "brand_image" : "https://i.ibb.co/xzH34L2/image.png"
+    },
+    {
+        "brand_name" : "ITC Limited",
+        "brand_id" : 108,
+        "brand_image" : "https://i.ibb.co/ZmCGDDm/image.png"
+    },
+    {
+        "brand_name" : "Ameerah",
+        "brand_id" : 109,
+        "brand_image" : "https://i.ibb.co/685Kr7B/image.png"
+    },
+    {
+        "brand_name" : "Pampers",
+        "brand_id" : 110,
+        "brand_image" : "https://i.ibb.co/FhccLK7/image.png"
+    },
+    {
+        "brand_name" : "MamyPoko",
+        "brand_id" : 111,
+        "brand_image" : "https://i.ibb.co/FVhgV6m/image.png"
+    },
+    {
+        "brand_name" : "Johnson's",
+        "brand_id" : 112,
+        "brand_image" : "https://i.ibb.co/ncQy1cR/image.png"
+    },
+    {
+        "brand_name" : "Huggies",
+        "brand_id" : 113,
+        "brand_image" : "https://i.ibb.co/Ngvqdgz/image.png"
+    },
+    {
+        "brand_name" : "Dove",
+        "brand_id" : 114,
+        "brand_image" : "https://i.ibb.co/D7RWQdg/image.png"
+    },
+    {
+        "brand_name" : "Mother Sparsh",
+        "brand_id" : 115,
+        "brand_image" : "https://i.ibb.co/7JNn4L1/image.png"
+    },
+    {
+        "brand_name" : "Horlicks",
+        "brand_id" : 116,
+        "brand_image" : "https://i.ibb.co/qxmVL70/image.png"
+    },
+    {
+        "brand_name" : "Signutra",
+        "brand_id" : 117,
+        "brand_image" : "https://i.ibb.co/nwFxDK4/image.png"
+    },
+    {
+        "brand_name" : "Galact Granules",
+        "brand_id" : 118,
+        "brand_image" : "https://i.ibb.co/mHWp34D/image.png"
+    },
+    {
+        "brand_name" : "Sirona",
+        "brand_id" : 119,
+        "brand_image" : "https://i.ibb.co/bNzwphd/image.png"
+    },
+    {
+        "brand_name" : "Sanfe",
+        "brand_id" : 120,
+        "brand_image" : "https://i.ibb.co/Zxksq9Q/image.png"
+    },
+    {
+        "brand_name" : "Healofy",
+        "brand_id" : 121,
+        "brand_image" : "https://i.ibb.co/QDL48Xz/image.png"
+    },
+    {
+        "brand_name" : "The Moms Co",
+        "brand_id" : 122,
+        "brand_image" : "https://i.ibb.co/pXLv2RQ/image.png"
+    },
+    {
+        "brand_name" : "Surf Excel",
+        "brand_id" : 123,
+        "brand_image" : "https://i.ibb.co/RjCtdWG/image.png"
+    },
+    {
+        "brand_name" : "Lays",
+        "brand_id" : 124,
+        "brand_image" : "https://i.ibb.co/ZxxChTG/image.png"
+    },
+    {
+        "brand_name" : "Fogg",
+        "brand_id" : 125,
+        "brand_image" : "https://i.ibb.co/mtWC7d7/image.png"
     }
 ]

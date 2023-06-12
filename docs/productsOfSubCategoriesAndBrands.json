@@ -1299,7 +1299,7 @@
         "original_price":25,
         "discounted_price":20,
         "product_description":"Every bun has a story - Did you know- our bakeries produce the most burger buns in the country!!. The finely baked Buns sprinkled with sesame are made to deliver Burgers that are synonymous to being fabulous. The subtle flavour and golden crust is sure to be quite a treat to your appetite.",
-        "product_image" : "https://i.ibb.co/wNzjZ5X/image.png",,
+        "product_image" : "https://i.ibb.co/wNzjZ5X/image.png",
         "brand_name" : "English Oven",
         "brand_id" : 36
     },
@@ -1351,7 +1351,9 @@
         "original_price":55,
         "discounted_price":39,
         "product_description":"The crunchier the better. Get into the fun of munching on crispy delight with Tasties’ Milk Rusk. Fresh off the oven, these sweet and crusty rusks are a great snack buddy for your tea or coffee moments. Every bite is filled with sweetness and crumbly texture to give your mouth a fun experience.",
-        "product_image" : "https://i.ibb.co/W6K66vY/image.png"
+        "product_image" : "https://i.ibb.co/W6K66vY/image.png",
+        "brand_name" : "Tasties",
+        "brand_id" : 38
     },
     {
         "product_id" : 105,
@@ -1362,7 +1364,9 @@
         "original_price":99,
         "discounted_price":89,
         "product_description":"Made out of crunchy cashew nuts and delicious melted butter, this wonderful sweet treat is all set to create magic in your mouth. Tasties Biscuits - Cashew Nut is all set to give you a culinary experience and enliven your taste buds These melt in your mouth cookies can be enjoyed with tea, coffee or ice cream.",
-        "product_image" : "https://i.ibb.co/SvMQhyh/image.png"
+        "product_image" : "https://i.ibb.co/SvMQhyh/image.png",
+        "brand_name" : "Tasties",
+        "brand_id" : 38
     },
     {
         "product_id" : 106,
@@ -1373,7 +1377,9 @@
         "original_price":80,
         "discounted_price":40,
         "product_description":"Experience new exciting chocolatey centre filled cookie from Cadbury. Perfect as an indulgent me time Treat or to relish happy moments with your loved ones and friends. Indulge in the taste of this amazing combination of delicious cookies that enrobe a smooth chocolatey centre.",
-        "product_image" : "https://i.ibb.co/Lvf4fY7/image.png"
+        "product_image" : "https://i.ibb.co/Lvf4fY7/image.png",
+        "brand_name" : "Cadbury",
+        "brand_id" : 39
     },
     {
         "product_id" : 107,
@@ -1384,7 +1390,9 @@
         "original_price":80,
         "discounted_price":60,
         "product_description":"Treat your taste buds with this all-new indulgent Britannia Treat Croissant made using the best flour from across the country, kneaded into the softest dough and baked to perfection. Every bite of the delicious treat gives the heavenly taste of smooth, velvety crème made with Cocoa, oozing out of layers of soft, fluffy bread that will melt in your mouth, creating an irresistible experience.",
-        "product_image" : "https://i.ibb.co/rxqH7hw/image.png"
+        "product_image" : "https://i.ibb.co/rxqH7hw/image.png",
+        "brand_name" : "Britannia",
+        "brand_id" : 37
     },
     {
         "product_id" : 108,
@@ -1395,7 +1403,9 @@
         "original_price":60,
         "discounted_price":46,
         "product_description":"Britannia Chocolate Cake has soft and delicious cake slices with the goodness of chocolate, milk and eggs. With each bite feel the richness and smoothness of chocolate which gives mouth-watering flavour.",
-        "product_image" : "https://i.ibb.co/7Qxvj52/image.png"
+        "product_image" : "https://i.ibb.co/7Qxvj52/image.png",
+        "brand_name" : "Britannia",
+        "brand_id" : 37
     },
     {
         "product_id" : 109,
@@ -1406,7 +1416,9 @@
         "original_price":20,
         "discounted_price":15,
         "product_description":"Britannia Fudge It Chocolate Brownie Cake is in town. With a delectable, mouth-watering taste, it gonna win your heart and be your new dessert buddy. Filled with the goodness of wheat, eggs, milk, and soya, the brownie cake deliciously melt in your mouth.",
-        "product_image" : "https://i.ibb.co/pnXyjSV/image.png"
+        "product_image" : "https://i.ibb.co/pnXyjSV/image.png",
+        "brand_name" : "Britannia",
+        "brand_id" : 37
     },
     {
         "product_id" : 110,
@@ -1417,7 +1429,9 @@
         "original_price":20,
         "discounted_price":15,
         "product_description":"Elite Choco Cup Cake is a fine blend of sweetness, softness and just the right amount of chocolate flavour. Baked to perfection, its a soft and tasty delight.",
-        "product_image" : "https://i.ibb.co/XSn8LtC/image.png"
+        "product_image" : "https://i.ibb.co/XSn8LtC/image.png",
+        "brand_name" : "Elite Foods",
+        "brand_id" : 40
     },
     {
         "product_id" : 111,
@@ -1428,7 +1442,9 @@
         "original_price":20,
         "discounted_price":16,
         "product_description":"Winkies Layer Cake is a fine blend of sweetness, softness and just the right amount of chocolate flavour. Baked to perfection, its a soft and tasty delight.",
-        "product_image" : "https://i.ibb.co/1Rsf3nF/image.png"
+        "product_image" : "https://i.ibb.co/1Rsf3nF/image.png",
+        "brand_name" : "Winkies",
+        "brand_id" : 41
     },
     {
         "product_id" : 112,
@@ -1439,7 +1455,9 @@
         "original_price":480,
         "discounted_price":425,
         "product_description":"Bauli Moonfills are soft and delicious puff rolls that envelope rich cream filling, combined through traditional Italian baking techniques. These puffs include natural ingredients and are an absolute treat to relish on-the-go or to pack for school.",
-        "product_image" : "https://i.ibb.co/gb2z7yF/image.png"
+        "product_image" : "https://i.ibb.co/gb2z7yF/image.png",
+        "brand_name" : "Bauli",
+        "brand_id" : 42
     },
     {
         "product_id" : 113,
@@ -1450,7 +1468,9 @@
         "original_price":40,
         "discounted_price":38,
         "product_description":"Think of a soft, delicious chocolate muffin. Take a bite, and the smooth vanilla cream fills your mouth. Now think of paradise.",
-        "product_image" : "https://i.ibb.co/2n7TBWH/image.png"
+        "product_image" : "https://i.ibb.co/2n7TBWH/image.png",
+        "brand_name" : "Winkies",
+        "brand_id" : 41
     },
     {
         "product_id" : 114,
@@ -1461,7 +1481,9 @@
         "original_price":195,
         "discounted_price":160,
         "product_description":"Amul Real milk vanilla ice cream now in a tub that enough for all your friends. The classics never go out of the fashion.",
-        "product_image" : "https://i.ibb.co/sVKW6n8/image.png"
+        "product_image" : "https://i.ibb.co/sVKW6n8/image.png",
+        "brand_name" : "Amul",
+        "brand_id" : 1
     },
     {
         "product_id" : 115,
@@ -1472,7 +1494,9 @@
         "original_price":300,
         "discounted_price":275,
         "product_description":"Introducing Hangyo's Roasted Almond - a delicious and nutty ice cream flavour that is perfect for those who love the combination of creamy and crunchy textures. This ice cream is made with high-quality ingredients and is sure to become your new favourite dessert. Hangyo's Roasted Almond ice cream is a rich and creamy delight with the perfect balance of roasted almonds and sweet cream.",
-        "product_image" : "https://i.ibb.co/MDLCBv6/image.png"
+        "product_image" : "https://i.ibb.co/MDLCBv6/image.png",
+        "brand_name" : "Hangyo",
+        "brand_id" : 43
     },
     {
         "product_id" : 116,
@@ -1483,7 +1507,9 @@
         "original_price":50,
         "discounted_price":45,
         "product_description":"Introducing Hangyo's Belgium Chocolate Cone - a luxurious and indulgent ice cream flavour that will delight any chocolate lover. This premium quality ice cream is made with the finest ingredients, creating a rich and velvety texture that is sure to satisfy your cravings. Hangyo's Belgium Chocolate Cone has a smooth and creamy texture that is filled with the intense flavour of premium quality Belgian chocolate.",
-        "product_image" : "https://i.ibb.co/N1d6nyg/image.png"
+        "product_image" : "https://i.ibb.co/N1d6nyg/image.png",
+        "brand_name" : "Hangyo",
+        "brand_id" : 43
     },
     {
         "product_id" : 117,
@@ -1494,7 +1520,9 @@
         "original_price":35,
         "discounted_price":30,
         "product_description":"Creamy Butterscotch icecream inside Crispy wafer biscuit cone India's most loved ice cream cone. Taste of Real milk, real ice cream. In the world of Amul Ice Cream, happiness and excitement go hand-in-hand with good health and delicious flavours.",
-        "product_image" : "https://i.ibb.co/gyFMY30/image.png"
+        "product_image" : "https://i.ibb.co/gyFMY30/image.png",
+        "brand_name" : "Amul",
+        "brand_id" : 1
     },
     {
         "product_id" : 118,
@@ -1505,7 +1533,9 @@
         "original_price":99,
         "discounted_price":75,
         "product_description":"Made with Belgian Chocolate. Smooth chocolate truffle sauce, swirled through creamy chocolate ice cream and wrapped in thick cracking Belgian chocolate. Wild, sweet and smooth to the taste in every bite. You will also love Magnum Almond.",
-        "product_image" : "https://i.ibb.co/hchfSvS/image.png"
+        "product_image" : "https://i.ibb.co/hchfSvS/image.png",
+        "brand_name" : "Kwality Walls",
+        "brand_id" : 44
     },
     {
         "product_id" : 119,
@@ -1516,7 +1546,9 @@
         "original_price":299,
         "discounted_price":225,
         "product_description":"Who does not like a surprise? Crushed into a creamy dessert, you will recognize the unique crunchy & chocolatey little crumbs. It is simply Oreo. The magic you taste in every scoop comes from many years of experience in the Fine Art of Frozen Desserts.",
-        "product_image" : "https://i.ibb.co/mbVyLMk/image.png"
+        "product_image" : "https://i.ibb.co/mbVyLMk/image.png",
+        "brand_name" : "Kwality Walls",
+        "brand_id" : 44
     },
     {
         "product_id" : 120,
@@ -1527,7 +1559,9 @@
         "original_price":80,
         "discounted_price":70,
         "product_description":"The same delicious, uplifting, and refreshing taste of Coca-Cola, without the sugar. Diet Coke has a crisp flavour and Less than 1 Calorie, ideal for those who like to monitor their calorie intake. The best known soft drink in the world, in India, Coca-Cola was the leading cola drink till 1977 and then it made a comeback in 1993.",
-        "product_image" : "https://i.ibb.co/hf2kDj5/image.png"
+        "product_image" : "https://i.ibb.co/hf2kDj5/image.png",
+        "brand_name" : "Coco-cola",
+        "brand_id" : 2
     },
     {
         "product_id" : 121,
@@ -1538,7 +1572,9 @@
         "original_price":99,
         "discounted_price":90,
         "product_description":"Coca-Cola is the most popular and biggest-selling soft drink in history, as well as the best-known brand in the world. Quench your thirst with this amazing drink. Best when shared with loved ones!",
-        "product_image" : "https://i.ibb.co/W55xKsb/image.png"
+        "product_image" : "https://i.ibb.co/W55xKsb/image.png",
+        "brand_name" : "Coco-cola",
+        "brand_id" : 2
     },
     {
         "product_id" : 122,
@@ -1549,7 +1585,9 @@
         "original_price":20,
         "discounted_price":18,
         "product_description":"Kinley sparkling water is the go-to choice. Launched in 2002, the bubbly zing of Kinley soda makes a perfect mixer for your mocktails ! This Coca-Cola product goes through an intensive 10 Step filtration method before reaching you. The consistency and purity of the carbonated water is maintained using various procedures.",
-        "product_image" : "https://i.ibb.co/p1j29bd/image.png"
+        "product_image" : "https://i.ibb.co/p1j29bd/image.png",
+        "brand_name" : "Kinley",
+        "brand_id" : 45
     },
     {
         "product_id" : 123,
@@ -1560,7 +1598,9 @@
         "original_price":210,
         "discounted_price":176,
         "product_description":"Pepsi brings Pepsi Black - a zero-calorie cola with maximum taste. It's a soft drink that goes well with your diet plan, without disrupting it. So don't think about those extra calories. If you're thirsty, grab a Pepsi Black and drink without worry or any hassle.",
-        "product_image" : "https://i.ibb.co/hsSW4Tv/image.png"
+        "product_image" : "https://i.ibb.co/hsSW4Tv/image.png",
+        "brand_name" : "Pepsi",
+        "brand_id" : 46
     },
     {
         "product_id" : 124,
@@ -1571,7 +1611,9 @@
         "original_price":75,
         "discounted_price":68,
         "product_description":"Refreshing people since 1999, Sprite is known for its straightforward attitude. The brand strongly believes in removing all the unnecessary Bakwaas from your life so that you can chill for real. Days full of work pressure, frustration and scoffing can make life stressful. Release all the stress with Sprite soft drink and restart with a clear head.",
-        "product_image" : "https://i.ibb.co/GWyQTPy/image.png"
+        "product_image" : "https://i.ibb.co/GWyQTPy/image.png",
+        "brand_name" : "Sprite",
+        "brand_id" : 47
     },
     {
         "product_id" : 125,
@@ -1582,7 +1624,9 @@
         "original_price":165,
         "discounted_price":150,
         "product_description":"Red Bull Energy Drink - Wiiings, when you need them. Red Bull Energy Drink, is a functional beverage and its formula contains high-quality ingredients: Caffeine, Taurine, some B-group Vitamins, Sugars and Alpine water. Vitalizes Body and Mind Red Bull cans are made of 100% recyclable aluminum.",
-        "product_image" : "https://i.ibb.co/J2QpV2j/image.png"
+        "product_image" : "https://i.ibb.co/J2QpV2j/image.png",
+        "brand_name" : "Red Bull",
+        "brand_id" : 48
     },
     {
         "product_id" : 126,
@@ -1593,7 +1637,9 @@
         "original_price":75,
         "discounted_price":60,
         "product_description":"Schweppes Tonic Water is the perfect complement to Gin. Add some to your drink today!",
-        "product_image" : "https://i.ibb.co/8Xgt4SY/image.png"
+        "product_image" : "https://i.ibb.co/8Xgt4SY/image.png",
+        "brand_name" : "Schweppes",
+        "brand_id" : 49
     },
     {
         "product_id" : 127,
@@ -1604,7 +1650,9 @@
         "original_price":239,
         "discounted_price":214,
         "product_description":"When the history of Tea is written down, 1966 will be a celebrated Chapter. For in that year, Brooke Bond Taj Mahal Tea was born, with a promise - To foster excellence in each Cup. Fifty years on, we have not forgotten that promise. Ordinary teas usually provide either strength or just flavour. However, Only Brooke Bond Taj Mahal Tea contains the precious essence of the Finest fresh tea leaves, giving you the perfect balance of strength and flavour.",
-        "product_image" : "https://i.ibb.co/Qr7b8LN/image.png"
+        "product_image" : "https://i.ibb.co/Qr7b8LN/image.png",
+        "brand_name" : "Brooke Bond",
+        "brand_id" : 50
     },
     {
         "product_id" : 128,
@@ -1615,7 +1663,9 @@
         "original_price":570,
         "discounted_price":486,
         "product_description":"Brooke Bond Red Label is one of Indias largest selling packaged tea brands. The CTC tea is made using the best quality leaves; processed in the unique Brooke Bond Tea Excellence Centre. Since 1869, Brooke Bond has brought you the perfect tasting tea experience with the best-chosen leaves.",
-        "product_image" : "https://i.ibb.co/DrhbHTq/image.png"
+        "product_image" : "https://i.ibb.co/DrhbHTq/image.png",
+        "brand_name" : "Brooke Bond",
+        "brand_id" : 50
     },
     {
         "product_id" : 129,
@@ -1626,7 +1676,9 @@
         "original_price":220,
         "discounted_price":199,
         "product_description":"Since 1869, Brooke Bond has brought you the perfect tasting tea experience with the best-chosen leaves from Assam. Brooke Bond has launched 3 Roses, one of Indias most preferred tea brands today. Brooke Bond 3 Roses since then has changed the way people drink tea.",
-        "product_image" : "https://i.ibb.co/0y5qDYw/image.png"
+        "product_image" : "https://i.ibb.co/0y5qDYw/image.png",
+        "brand_name" : "Brooke Bond",
+        "brand_id" : 50
     },
     {
         "product_id" : 130,
@@ -1637,7 +1689,9 @@
         "original_price":165,
         "discounted_price":139,
         "product_description":"Tata Tea Kanan Devan offers a strong cup of tea. Tata Tea Kanan Devan is the second most loved tea brand in Kerala, and one of the largest brands in Karnataka in the dust tea segment. Kanan Devan was popular as a loose tea mark for more than seven decades and was then launched in 1984 as a packaged tea brand in Kerala.",
-        "product_image" : "https://i.ibb.co/n60gwn8/image.png"
+        "product_image" : "https://i.ibb.co/n60gwn8/image.png",
+        "brand_name" : "TATA",
+        "brand_id" : 15
     },
     {
         "product_id" : 131,
@@ -1648,7 +1702,9 @@
         "original_price":570,
         "discounted_price":428,
         "product_description":"In the place, where the valley meets the mountains, Tata Tea Gold is born. An exquisite tea that combines the rich fullness of fine valley grown teas from Assam with the irresistible aroma of specially selected long leaves from highlands.",
-        "product_image" : "https://i.ibb.co/mFZt21Z/image.png"
+        "product_image" : "https://i.ibb.co/mFZt21Z/image.png",
+        "brand_name" : "TATA",
+        "brand_id" : 15
     },
     {
         "product_id" : 132,
@@ -1659,7 +1715,9 @@
         "original_price":625,
         "discounted_price":532,
         "product_description":"It's not just a cup of tea, it's therapy - One Sip at a Time. Lipton Green Tea is not just a regular cup of chai, we believe it's a therapy for your body. Wake up to a morning cup of hot Lipton green tea and feel how it leaves you feeling light and active. Awaken your senses - one sip at a time. Buy Now! Magic of Green Tea Green tea is produced when freshly plucked leaves are heated, rolled/cut and then dried.",
-        "product_image" : "https://i.ibb.co/b6mb0DH/image.png"
+        "product_image" : "https://i.ibb.co/b6mb0DH/image.png",
+        "brand_name" : "Lipton",
+        "brand_id" : 51
     },
     {
         "product_id" : 133,
@@ -1670,7 +1728,9 @@
         "original_price":290,
         "discounted_price":274,
         "product_description":"There is nothing better than starting your day with a cup of hot Wagh Bakri tea. Made from tea leaves that has been procured from the best tea gardens of India, the tea, leaves you feeling refreshed and ready to go conquer the world.",
-        "product_image" : "https://i.ibb.co/D7GQv64/image.png"
+        "product_image" : "https://i.ibb.co/D7GQv64/image.png",
+        "brand_name" : "Wagh Bakri",
+        "brand_id" : 52
     },
     {
         "product_id" : 134,
@@ -1681,7 +1741,9 @@
         "original_price":310,
         "discounted_price":286,
         "product_description":"Cothas Specialty Blend Coffee and Chicory include composition of Coffee 85% & Chicory 15%. It is a roasted coffee seeds with pure coffee powder. It lowers the risk of range of cancers, improves cholesterol health, lowers risk of heart diseases, elevated fat burning and also increases strength and power. ",
-        "product_image" : "https://i.ibb.co/bgN4ZnD/image.png"
+        "product_image" : "https://i.ibb.co/bgN4ZnD/image.png",
+        "brand_name" : "Cothas Coffee",
+        "brand_id" : 53
     },
     {
         "product_id" : 135,
@@ -1692,7 +1754,9 @@
         "original_price":205,
         "discounted_price":184,
         "product_description":"Loved by consumers since 1962, Bru Green Label Coffee is Indias first packaged filter coffee with a perfect mix of 53% coffee and 47% chicory. Its lightly roasted ground coffee beans give out a perfect decoction for a rich & smooth flavourful cup that helps rejuvenate your senses. The nitro flush packaging retains its fresh flavour and aroma providing rich tasteful notes. ",
-        "product_image" : "https://i.ibb.co/M63d9Lb/image.png"
+        "product_image" : "https://i.ibb.co/M63d9Lb/image.png",
+        "brand_name" : "Bru Coffee",
+        "brand_id" : 54
     },
     {
         "product_id" : 136,
@@ -1703,7 +1767,9 @@
         "original_price":460,
         "discounted_price":371,
         "product_description":"BRU Instant Coffee was launched in 1968 and was Indias first coffee-chicory mix instant coffee. It is the perfect mix of 70% coffee and 30% chicory and is made from a fine blend of the choicest plantation and Robusta beans.",
-        "product_image" : "https://i.ibb.co/dQVmNhj/image.png"
+        "product_image" : "https://i.ibb.co/dQVmNhj/image.png",
+        "brand_name" : "Bru Coffee",
+        "brand_id" : 54
     },
     {
         "product_id" : 137,
@@ -1714,7 +1780,9 @@
         "original_price":440,
         "discounted_price":393,
         "product_description":"Nescafe Sunrise is an instant coffee-chicory mixture made from blends of 70% coffee and 30% chicory. This coffee is made with the fine blends of Arabica and Robusta beans that are slow-roasted for optimal flavour.",
-        "product_image" : "https://i.ibb.co/0nmt7x0/image.png"
+        "product_image" : "https://i.ibb.co/0nmt7x0/image.png",
+        "brand_name" : "Nescafé",
+        "brand_id" : 55
     },
     {
         "product_id" : 138,
@@ -1725,7 +1793,9 @@
         "original_price":290,
         "discounted_price":214,
         "product_description":"Eighty Degree Coffee denotes very high quality Coffee, A Classic blend of High grown Arabic Coffee, to give you enriching aroma and exquisite taste, A cup of coffee strong enough to stimulate and yet smooth enough to delight your senses, Coffee Can't get better than this.",
-        "product_image" : "https://i.ibb.co/vdqhJ4C/image.png"
+        "product_image" : "https://i.ibb.co/vdqhJ4C/image.png",
+        "brand_name" : "Bayars Coffee",
+        "brand_id" : 56
     },
     {
         "product_id" : 139,
@@ -1736,7 +1806,9 @@
         "original_price":265,
         "discounted_price":214,
         "product_description":"Introducing Tata Coffee Grand Filter Coffee which leverages the deep heritage of Tata in coffee and delivers an intensely rich, fresh, and aromatic coffee. Get a fresh start to your mornings with a sip of freshly brewed coffee and be ready for an adventurous ride all day long. Containing coffee, chicory and flavour locked decoction crystals, this coffee is roasted and grounded to perfection.",
-        "product_image" : "https://i.ibb.co/L8QkFGD/image.png"
+        "product_image" : "https://i.ibb.co/L8QkFGD/image.png",
+        "brand_name" : "TATA",
+        "brand_id" : 15
     },
     {
         "product_id" : 140,
@@ -1747,7 +1819,9 @@
         "original_price":360,
         "discounted_price":344,
         "product_description":"Continental Xtra Coffee gives you a authentic richness and freshness. A meticulous blend of 70% coffee and 30% Chicory. It creates a magic for the senses owing to its aroma, flavour and richness, giving you the much needed boost to take on any challenge throughout the day.",
-        "product_image" : "https://i.ibb.co/3T9bGxt/image.png"
+        "product_image" : "https://i.ibb.co/3T9bGxt/image.png",
+        "brand_name" : "Continental Coffee",
+        "brand_id" : 57
     },
     {
         "product_id" : 141,
@@ -1758,7 +1832,9 @@
         "original_price":200,
         "discounted_price":163,
         "product_description":"Rich in vitamins, minerals and electrolytes. Boosts your energy when you feel tired or dehydrated. Excellent alternative for fruit juices. Coconut water contains natural sweetness thus one can avoid calories from added sugar.",
-        "product_image" : "https://i.ibb.co/4Fjf20C/image.png"
+        "product_image" : "https://i.ibb.co/4Fjf20C/image.png",
+        "brand_name" : "Fresho",
+        "brand_id" : 7
     },
     {
         "product_id" : 142,
@@ -1769,7 +1845,9 @@
         "original_price":70,
         "discounted_price":65,
         "product_description":"Frooti Drink is completed of new juicy mangoes giving you a flavour that will remind you of the actual fruit. It is the most trusted fruit beverage brand. It portrays a humorous child-like image. Indulge yourself in a delightful juicy experience with Frooti Mango Drink, a delicious mango juice.",
-        "product_image" : "https://i.ibb.co/PFgR8vC/image.png"
+        "product_image" : "https://i.ibb.co/PFgR8vC/image.png",
+        "brand_name" : "Parle Agro",
+        "brand_id" : 58
     },
     {
         "product_id" : 143,
@@ -1780,7 +1858,9 @@
         "original_price":20,
         "discounted_price":15,
         "product_description":"Enjoy this refreshing tangy drink and quench your thirst. 7UP Nimbooz is tangier and bubblier than the other 7UPs. Experience a burst of refreshing taste with each sip. Due to its amazing taste this refreshing drink has become the main player in the juice-based drinks category.",
-        "product_image" : "https://i.ibb.co/9WqB6C0/image.png"
+        "product_image" : "https://i.ibb.co/9WqB6C0/image.png",
+        "brand_name" : "7 UP",
+        "brand_id" : 59
     },
     {
         "product_id" : 144,
@@ -1791,7 +1871,9 @@
         "original_price":35,
         "discounted_price":32,
         "product_description":"The one treasure that easily transforms Indian summer into the festivity that it is, is Aamras. An honest treat for an honest day’s work. A silkesque ale cascading down your throat - Soothing, serenading and more importantly, lingering.",
-        "product_image" : "https://i.ibb.co/8Xrw4Lm/image.png"
+        "product_image" : "https://i.ibb.co/8Xrw4Lm/image.png",
+        "brand_name" : "Paper Boat Foods",
+        "brand_id" : 60
     },
     {
         "product_id" : 145,
@@ -1802,7 +1884,9 @@
         "original_price":120,
         "discounted_price":109,
         "product_description":"Enjoy the refreshing and delicious taste of oranges! The natural tangy taste makes this an amazing drink. Not only tasty, but also it is packed with different essential nutrients. Rich in vitamin C, it is a great add to your daily breakfast.",
-        "product_image" : "https://i.ibb.co/qmtKDd6/image.png"
+        "product_image" : "https://i.ibb.co/qmtKDd6/image.png",
+        "brand_name" : "Tropicana",
+        "brand_id" : 61
     },
     {
         "product_id" : 146,
@@ -1813,7 +1897,9 @@
         "original_price":20,
         "discounted_price":15,
         "product_description":"Appy Fizz consists of carbonated apple juice, and is used as the basis for cocktails and is a popular drink with the youth. It contains vitamin A. It has a very tasty delicious taste.",
-        "product_image" : "https://i.ibb.co/0BbQH01/image.png"
+        "product_image" : "https://i.ibb.co/0BbQH01/image.png",
+        "brand_name" : "Parle Agro",
+        "brand_id" : 58
     },
     {
         "product_id" : 147,
@@ -1824,7 +1910,9 @@
         "original_price":90,
         "discounted_price":77,
         "product_description":"Drive away all your Monday blues and turn your Fridays into Friyays with Maaza mango drink. Synonymous with the very spirit of mangoes, Maaza lets you enjoy the moments of carefree indulgence. This mango drink is loved for its taste, colour, thickness and wholesome properties.",
-        "product_image" : "https://i.ibb.co/sPVg4n9/image.png"
+        "product_image" : "https://i.ibb.co/sPVg4n9/image.png",
+        "brand_name" : "Maaza",
+        "brand_id" : 62
     },
     {
         "product_id" : 148,
@@ -1835,7 +1923,9 @@
         "original_price":330,
         "discounted_price":200,
         "product_description":"Raw Pressery Cold Extracted Valencia Orange Juice that is made with the finest oranges. It is made using a cold pressed method that crushes and presses the fruits to extract the juice. It is loaded with dietary fibres and vitamin C.",
-        "product_image" : "https://i.ibb.co/6gbcmLC/image.png"
+        "product_image" : "https://i.ibb.co/6gbcmLC/image.png",
+        "brand_name" : "Raw Pressery",
+        "brand_id" : 63
     },
     {
         "product_id" : 149,
@@ -1846,7 +1936,9 @@
         "original_price":300,
         "discounted_price":237,
         "product_description":"Tang comes in refreshing Orange flavor. Keep everyone refreshed this summer with Tang and its great fruit taste with the goodness of vitamins A, B, C and Iron. A glass (approximately 180ml) of Tang gives your child 60% of Vitamin C required for the entire day.",
-        "product_image" : "https://i.ibb.co/F61q5fS/image.png"
+        "product_image" : "https://i.ibb.co/F61q5fS/image.png",
+        "brand_name" : "Tang",
+        "brand_id" : 64
     },
     {
         "product_id" : 150,
@@ -1857,7 +1949,9 @@
         "original_price":65,
         "discounted_price":46,
         "product_description":"Eggs are one of the common food items in most of the households. From breakfast to dinner, eggs are indulged in various ways. Poached, boiled, fried; we all have our own favourite choices. Not only are they delicious, but they are also crammed with health benefits.",
-        "product_image" : "https://i.ibb.co/093Ys75/image.png"
+        "product_image" : "https://i.ibb.co/093Ys75/image.png",
+        "brand_name" : "Fresho",
+        "brand_id" : 7
     },
     {
         "product_id" : 151,
@@ -1868,7 +1962,9 @@
         "original_price":265,
         "discounted_price":219,
         "product_description":"Eggs are one of the common food items in most of the households. From breakfast to dinner, eggs are indulged in various ways. Poached, boiled, fried; we all have our own favourite choices. Not only are they delicious, but they are also crammed with health benefits.",
-        "product_image" : "https://i.ibb.co/PYGRcVb/image.png"
+        "product_image" : "https://i.ibb.co/PYGRcVb/image.png",
+        "brand_name" : "Fresho",
+        "brand_id" : 7
     },
     {
         "product_id" : 152,
@@ -1879,7 +1975,9 @@
         "original_price":600,
         "discounted_price":529,
         "product_description":"Our Infertile Free Range Eggs are produced using traditional farming methods, ensuring highest animal protection standards. Our hens are pasture raised and humanely treated. These eggs do not contain antibiotics, growth promoters, hormones or any such substances.",
-        "product_image" : "https://i.ibb.co/dPMLFy4/image.png"
+        "product_image" : "https://i.ibb.co/dPMLFy4/image.png",
+        "brand_name" : "Farm Made Foods",
+        "brand_id" : 65
     },
     {
         "product_id" : 153,
@@ -1890,7 +1988,9 @@
         "original_price":85,
         "discounted_price":79,
         "product_description":"Best Plus Egg are hygienically processed and safely packed for keeping these free from any contamination and impurity. It has high nutritional content, protein, aroma and rich taste. These are one of nature's most nutritious and economical foods.",
-        "product_image" : "https://i.ibb.co/PDD622G/image.png"
+        "product_image" : "https://i.ibb.co/PDD622G/image.png",
+        "brand_name" : "SKM Best Eggs",
+        "brand_id" : 66
     },
     {
         "product_id" : 154,
@@ -1901,7 +2001,9 @@
         "original_price":83,
         "discounted_price":73,
         "product_description":"Eggoz eggs are free of any bad stuff (you name it) and from hens that are fed with herbal and pure veg feed.  They are sorted into graded and sanitized. These are very high in calcium and protein. These are free of hormones and steroids.",
-        "product_image" : "https://i.ibb.co/p0245K7/image.png"
+        "product_image" : "https://i.ibb.co/p0245K7/image.png",
+        "brand_name" : "Eggoz",
+        "brand_id" : 67
     },
     {
         "product_id" : 155,
@@ -1912,7 +2014,9 @@
         "original_price":89,
         "discounted_price":85,
         "product_description":"UPF Brown Eggs are fresh and clean eggs produced from the vegetarian feed. These are infertile. Brown eggs are the natural sources of Omega-3 fatty acids.",
-        "product_image" : "https://i.ibb.co/JHjD66R/image.png"
+        "product_image" : "https://i.ibb.co/JHjD66R/image.png",
+        "brand_name" : "UPF Healthy Eggs",
+        "brand_id" : 68
     },
     {
         "product_id" : 156,
@@ -1923,7 +2027,9 @@
         "original_price":376,
         "discounted_price":356,
         "product_description":"Chicken is a lean meat with various health benefits. Packed with nutritional values, chicken is supremely advantageous for your body. Filled with vitamins, minerals and protein, chicken promotes brain development, strengthens your bones, aids in weight loss, builds muscle and helps in a healthy heart.",
-        "product_image" : "https://i.ibb.co/X7z56Dh/image.png"
+        "product_image" : "https://i.ibb.co/X7z56Dh/image.png",
+        "brand_name" : "Fresho",
+        "brand_id" : 7
     },
     {
         "product_id" : 157,
@@ -1934,7 +2040,9 @@
         "original_price":246,
         "discounted_price":169,
         "product_description":"Chicken is a lean meat with various health benefits. Packed with nutritional values, chicken is supremely advantageous for your body. Filled with vitamins, minerals and protein, chicken promotes brain development, strengthens your bones, aids in weight loss, builds muscle and helps in a healthy heart.",
-        "product_image" : "https://i.ibb.co/dk047Qk/image.png"
+        "product_image" : "https://i.ibb.co/dk047Qk/image.png",
+        "brand_name" : "Fresho",
+        "brand_id" : 7
     },
     {
         "product_id" : 158,
@@ -1945,7 +2053,9 @@
         "original_price":320,
         "discounted_price":280,
         "product_description":"Heat Oil in a pan for deep frying, When the oil becomes hot (approximate Oil Temperture will be 175 Degree, Trun the Burner to a medium Flame, Immerse the frozen nuggets into the oil, Allow the nuggets to deep fry until thoroughly cooked, Which is Approximately 2 minutes, A properly fried chicken nugget is golden brown in colour, Remove the cooked nuggets from the oil to a plate cover with a paper towel to absorb any excess Oil and serve.",
-        "product_image" : "https://i.ibb.co/mynvygb/image.png"
+        "product_image" : "https://i.ibb.co/mynvygb/image.png",
+        "brand_name" : "SFP Foods",
+        "brand_id" : 69
     },
     {
         "product_id" : 159,
@@ -1956,7 +2066,9 @@
         "original_price":350,
         "discounted_price":290,
         "product_description":"This juicy sausages are made from premium boneless. It has a perfect balance of cheese n pepper making it a breakfast favourite. This is the best for serving the guests as it is easy and quick to cook and comes with an astounding taste.",
-        "product_image" : "https://i.ibb.co/x7WLFKb/image.png"
+        "product_image" : "https://i.ibb.co/x7WLFKb/image.png",
+        "brand_name" : "SFP Foods",
+        "brand_id" : 69
     },
     {
         "product_id" : 160,
@@ -1967,7 +2079,9 @@
         "original_price":405,
         "discounted_price":365,
         "product_description":"Boneless chicken breast, minced and seasoned with spices and other ingredients and formed like natural cut crispy fried chicken, coated and fried. This product can be air fried/baked or deep fried as per customer preference.",
-        "product_image" : "https://i.ibb.co/3cGY8LN/image.png"
+        "product_image" : "https://i.ibb.co/3cGY8LN/image.png",
+        "brand_name" : "Meatzza",
+        "brand_id" : 70
     },
     {
         "product_id" : 161,
@@ -1978,7 +2092,9 @@
         "original_price":175,
         "discounted_price":167,
         "product_description":"A food rich in protein, chicken can help with weight management and reduce the risk of heart disease. Chicken contains the amino acid tryptophan, which has been linked to higher levels of serotonin (the “feel good” hormone) in our brains. Chicken is highly nutritious and a good source of protein. Adding chicken to your diet may help support weight loss, muscle growth, and bone health.",
-        "product_image" : "https://i.ibb.co/M84kLgS/image.png"
+        "product_image" : "https://i.ibb.co/M84kLgS/image.png",
+        "brand_name" : "Real Good Chicken",
+        "brand_id" : 71
     },
     {
         "product_id" : 162,
@@ -1989,7 +2105,9 @@
         "original_price":326,
         "discounted_price":295,
         "product_description":"Chicken is one of the most popular types of meat. It’s not only widely available and easy to prepare but also easily found in a number of preparations and varieties.",
-        "product_image" : "https://i.ibb.co/tK3P1k1/image.png"
+        "product_image" : "https://i.ibb.co/tK3P1k1/image.png",
+        "brand_name" : "Licious",
+        "brand_id" : 72
     },
     {
         "product_id" : 163,
@@ -2000,7 +2118,9 @@
         "original_price":305,
         "discounted_price":278,
         "product_description":"Quantity variations from the weight may occur, caused by loss or gain of moisture during good distribution practices or by unavoidable reasons.",
-        "product_image" : "https://i.ibb.co/8xJJdBf/image.png"
+        "product_image" : "https://i.ibb.co/8xJJdBf/image.png",
+        "brand_name" : "Pescafresh",
+        "brand_id" : 73
     },
     {
         "product_id" : 164,
@@ -2011,7 +2131,9 @@
         "original_price":610,
         "discounted_price":549,
         "product_description":"Meatzza Mutton Seekh Kebab 500G",
-        "product_image" : "https://i.ibb.co/HTnMxJ9/image.png"
+        "product_image" : "https://i.ibb.co/HTnMxJ9/image.png",
+        "brand_name" : "Meatzza",
+        "brand_id" : 70
     },
     {
         "product_id" : 165,
@@ -2022,7 +2144,9 @@
         "original_price":662,
         "discounted_price":450,
         "product_description":"Mutton is popular in most households. It is treated as a delicacy and is prepared on different joyous occasions. The juicy taste and the chewy texture make it a favourite among many. Moreover, they come with a lot of health benefits.",
-        "product_image" : "https://i.ibb.co/3FMkTbW/image.png"
+        "product_image" : "https://i.ibb.co/3FMkTbW/image.png",
+        "brand_name" : "Fresho",
+        "brand_id" : 7
     },
     {
         "product_id" : 166,
@@ -2033,7 +2157,9 @@
         "original_price":285,
         "discounted_price":199,
         "product_description":"Mutton is popular in most households. It is treated as a delicacy and is prepared on different joyous occasions. The juicy taste and the chewy texture make it a favourite among many. Moreover, they come with a lot of health benefits. It is packed with protein, saturated fat, iron, zinc, and vitamin B.",
-        "product_image" : "https://i.ibb.co/R78x73C/image.png"
+        "product_image" : "https://i.ibb.co/R78x73C/image.png",
+        "brand_name" : "Fresho",
+        "brand_id" : 7
     },
     {
         "product_id" : 167,
@@ -2044,7 +2170,9 @@
         "original_price":600,
         "discounted_price":550,
         "product_description":"At La Carne, we take pride in offering products of high quality. La Carne brings to you the authentic taste of premium Mutton Products. Quick Freezing technology used to preserve all the goodness and freshness inside. Made with best of mutton, which is lean with low fat. Mutton Kebab is juicy and tender & spiced to perfection.",
-        "product_image" : "https://i.ibb.co/94vKBB0/image.png"
+        "product_image" : "https://i.ibb.co/94vKBB0/image.png",
+        "brand_name" : "La Carne Cuts",
+        "brand_id" : 74
     },
     {
         "product_id" : 168,
@@ -2055,7 +2183,9 @@
         "original_price":1949,
         "discounted_price":1359,
         "product_description":"Mutton biryani pieces are pieces of lamb meat cut small enough to make use of directly. It is packed simple and hygienically to cook stews and biryani. They are simply processed and include no artificial ingredients. It is high in protein, selenium, iron, and zinc. It aids the making of red blood cells and muscle generation, avoiding anaemia.",
-        "product_image" : "https://i.ibb.co/KFMQN3w/image.png"
+        "product_image" : "https://i.ibb.co/KFMQN3w/image.png",
+        "brand_name" : "Fresho",
+        "brand_id" : 7
     },
     {
         "product_id" : 169,
@@ -2066,7 +2196,9 @@
         "original_price":935,
         "discounted_price":649,
         "product_description":"Mutton is popular in most households. It is treated as a delicacy and is prepared on different joyous occasions. The juicy taste and the chewy texture make it a favourite among many. Moreover, they come with a lot of health benefits.",
-        "product_image" : "https://i.ibb.co/vxjHy61/image.png"
+        "product_image" : "https://i.ibb.co/vxjHy61/image.png",
+        "brand_name" : "Fresho",
+        "brand_id" : 7
     },
     {
         "product_id" : 170,
@@ -2077,7 +2209,9 @@
         "original_price":324,
         "discounted_price":289,
         "product_description":"Cleaned, large-sized, freshwater, bony, unique tasting Rohu Bengali cut without head.; Cleaned, large-sized, freshwater, bony, unique tasting Rohu Bengali cut without head.",
-        "product_image" : "https://i.ibb.co/m0JwTsj/image.png"
+        "product_image" : "https://i.ibb.co/m0JwTsj/image.png",
+        "brand_name" : "Licious",
+        "brand_id" : 72
     },
     {
         "product_id" : 171,
@@ -2088,7 +2222,9 @@
         "original_price":100,
         "discounted_price":95,
         "product_description":"It is dried in the sun to prevent its soft flesh from spoiling, they shrink when dried. It is one of the oldest ways of preserving fish that is still considered one. This fish provides us with vitamin B12, an excellent source of protein, vitamin D and omega-3 and provides proper metabolism of food.",
-        "product_image" : "https://i.ibb.co/pntkxgF/image.png"
+        "product_image" : "https://i.ibb.co/pntkxgF/image.png",
+        "brand_name" : "Ecofarm",
+        "brand_id" : 75
     },
     {
         "product_id" : 172,
@@ -2099,7 +2235,9 @@
         "original_price":272,
         "discounted_price":189,
         "product_description":"Rohu fish with head & tail pieces is rich in protein and low in fat. It also contains plenty of minerals such as zinc, iron, and calcium, and has an abundance of omega-3 fatty acids. Vitamins such as A and D are also present.",
-        "product_image" : "https://i.ibb.co/vVgrtWQ/image.png"
+        "product_image" : "https://i.ibb.co/vVgrtWQ/image.png",
+        "brand_name" : "Fresho",
+        "brand_id" : 7
     },
     {
         "product_id" : 173,
@@ -2110,7 +2248,9 @@
         "original_price":350,
         "discounted_price":297,
         "product_description":"Prawns are full of nutrients. They are packed with protein and low in carbohydrates. It helps to build muscle and aids in weight-loss. The Fresho seawater prawns can be used instantly to cook a variety of delicious dishes without going through the pain of cleaning and deveining them.",
-        "product_image" : "https://i.ibb.co/mzQPkn2/image.png"
+        "product_image" : "https://i.ibb.co/mzQPkn2/image.png",
+        "brand_name" : "Fresho",
+        "brand_id" : 7
     },
     {
         "product_id" : 174,
@@ -2121,7 +2261,9 @@
         "original_price":1629,
         "discounted_price":1450,
         "product_description":"Salmon Skin-on Portions makes the perfect meal for 2. It contains nutritious Omega-3 fatty acids, Salmon is one of the healthiest proteins one can eat. It is flown in directly from Norway, so it is never too far from its date of production. Perfect for grilling.",
-        "product_image" : "https://i.ibb.co/PZkLy0m/image.png"
+        "product_image" : "https://i.ibb.co/PZkLy0m/image.png",
+        "brand_name" : "Big Sam's Foods",
+        "brand_id" : 76
     },
     {
         "product_id" : 175,
@@ -2132,7 +2274,9 @@
         "original_price":285,
         "discounted_price":220,
         "product_description":"It is neatly curved into a medium-sized bengali-cut pieces with soft texture which helps sharpen the taste of the delicious curry.",
-        "product_image" : "https://i.ibb.co/KytXvZ1/image.png"
+        "product_image" : "https://i.ibb.co/KytXvZ1/image.png",
+        "brand_name" : "The Good Fish Co.",
+        "brand_id" : 77
     },
     {
         "product_id" : 176,
@@ -2143,7 +2287,9 @@
         "original_price":635,
         "discounted_price":599,
         "product_description":"Good Source for Lean Protein, Individually Quick Frozen, Healthy Low Fat Food, Rich in Omega-3 Fatty Acid.",
-        "product_image" : "https://i.ibb.co/tmcwJHz/image.png"
+        "product_image" : "https://i.ibb.co/tmcwJHz/image.png",
+        "brand_name" : "SeaStar",
+        "brand_id" : 78
     },
     {
         "product_id" : 177,
@@ -2154,7 +2300,9 @@
         "original_price":154,
         "discounted_price":131,
         "product_description":"Colgate Total Advanced Health Toothpaste gives non-stop 12 hours germ protection. It makes a protective shield around your teeth and gums, protecting your teeth effectively from plaque, gingivitis, tartar build-up and bad breath.",
-        "product_image" : "https://i.ibb.co/kcDjV6L/image.png"
+        "product_image" : "https://i.ibb.co/kcDjV6L/image.png",
+        "brand_name" : "Colgate",
+        "brand_id" : 79
     },
     {
         "product_id" : 178,
@@ -2165,7 +2313,9 @@
         "original_price":40,
         "discounted_price":35,
         "product_description":"Colgate ZigZag comes with international quality multi-angle cross-bristles that help you reach deep between the teeth for effectively cleaning. The premium international quality end-rounded bristles feel gentle on teeth and gums, while the soft tongue cleaner makes removing odor causing germs easy and gentle.",
-        "product_image" : "https://i.ibb.co/z2jkNFS/image.png"
+        "product_image" : "https://i.ibb.co/z2jkNFS/image.png",
+        "brand_name" : "Colgate",
+        "brand_id" : 79
     },
     {
         "product_id" : 179,
@@ -2176,7 +2326,9 @@
         "original_price":209,
         "discounted_price":160,
         "product_description":"For whiter and stronger teeth Enriched with the goodness of herbal ingredients",
-        "product_image" : "https://i.ibb.co/3kT4pph/image.png"
+        "product_image" : "https://i.ibb.co/3kT4pph/image.png",
+        "brand_name" : "Patanjali",
+        "brand_id" : 80
     },
     {
         "product_id" : 180,
@@ -2187,7 +2339,9 @@
         "original_price":165,
         "discounted_price":115,
         "product_description":"Protect your mouth from germs and get fresh breath every morning with Colgate Plax Peppermint Fresh Mouthwash which gives 10x longer cooling sensation. It removes over 99% of bad breath causing germs in your mouth, for a fresher and cleaner mouth than brushing alone.",
-        "product_image" : "https://i.ibb.co/CvXy6Gn/image.png"
+        "product_image" : "https://i.ibb.co/CvXy6Gn/image.png",
+        "brand_name" : "Colgate",
+        "brand_id" : 79
     },
     {
         "product_id" : 181,
@@ -2198,7 +2352,9 @@
         "original_price":336,
         "discounted_price":226,
         "product_description":"Bid farewell to your usual brushing experience and say hello to an interesting one, with Colgate Charcoal Clean black gel toothpaste. Refresh your senses with a  toothpaste which is perfect blend of natural bamboo charcoal that helps to detoxify for a deep clean feeling & exotic Wintergreen mint with its subtle tingling and long-lasting freshness.",
-        "product_image" : "https://i.ibb.co/HLc6T7j/image.png"
+        "product_image" : "https://i.ibb.co/HLc6T7j/image.png",
+        "brand_name" : "Colgate",
+        "brand_id" : 79
     },
     {
         "product_id" : 182,
@@ -2209,7 +2365,9 @@
         "original_price":375,
         "discounted_price":318,
         "product_description":"Refresh your day with Listerine Total Care Mild Taste. The great Mild Tasting formula not only helps give you protection against gum problems but also gives you a fresh breath that will give you the confidence to be always ready!",
-        "product_image" : "https://i.ibb.co/xXMVS5L/image.png"
+        "product_image" : "https://i.ibb.co/xXMVS5L/image.png",
+        "brand_name" : "Listerine",
+        "brand_id" : 81
     },
     {
         "product_id" : 183,
@@ -2220,18 +2378,22 @@
         "original_price":283,
         "discounted_price":199,
         "product_description":"Dabur Red Paste is an unmistakable name when it comes to holistic Ayurvedic oral care. Carries a unique blend of traditional Indian medicine and modern pharmaceutical technology.",
-        "product_image" : "https://i.ibb.co/5TxMN1r/image.png"
+        "product_image" : "https://i.ibb.co/5TxMN1r/image.png",
+        "brand_name" : "Dabur",
+        "brand_id" : 82
     },
     {
         "product_id" : 184,
-        "product_name" : "Royal Stainless Steel Tongue Cleaner",
+        "product_name" : "Dabur Stainless Steel Tongue Cleaner",
         "sub_category_name":"Oral Care",
         "sub_category_id": 25,
         "product_quantity":"1 piece",
         "original_price":149,
         "discounted_price":101,
         "product_description":"Pichai Home Care, Kila No 10/4/1, Village Atmadpur, Bypass Road, Faridabad, Haryana",
-        "product_image" : "https://i.ibb.co/1GW9w5k/image.png"
+        "product_image" : "https://i.ibb.co/1GW9w5k/image.png",
+        "brand_name" : "Dabur",
+        "brand_id" : 82
     },
     {
         "product_id" : 185,
@@ -2242,7 +2404,9 @@
         "original_price":1199,
         "discounted_price":960,
         "product_description":"Shelf Life 120 months",
-        "product_image" : "https://i.ibb.co/kD2pvYg/image.png"
+        "product_image" : "https://i.ibb.co/kD2pvYg/image.png",
+        "brand_name" : "Oral B",
+        "brand_id" : 83
     },
     {
         "product_id" : 186,
@@ -2253,7 +2417,9 @@
         "original_price":689,
         "discounted_price":516,
         "product_description":"Whisper Ultra Clean is our No 1 Hygienic Protection Range, now with Herbal Oil and locks not just wetness but also odour. The pads are nearly 40% longer versus ordinary pads for long-lasting coverage, and have a DRI weave cover that absorbs in seconds, with a delightful scent for all day freshness",
-        "product_image" : "https://i.ibb.co/7gyjbjj/image.png"
+        "product_image" : "https://i.ibb.co/7gyjbjj/image.png",
+        "brand_name" : "Whisper",
+        "brand_id" : 84
     },
     {
         "product_id" : 187,
@@ -2264,7 +2430,9 @@
         "original_price":520,
         "discounted_price":339,
         "product_description":"Stayfree Secure Cottony Extra Large Soft Cover Sanitary Pads For Women With Wings. Extra-long, with a length of 274 mm gives long-lasting protection for up to 12 hours. Super absorb design stays close, absorbs more and helps prevent leaks. Soft-touch cover to prevent rashes and skin irritation.",
-        "product_image" : "https://i.ibb.co/Ch0GnY4/image.png"
+        "product_image" : "https://i.ibb.co/Ch0GnY4/image.png",
+        "brand_name" : "Stayfree",
+        "brand_id" : 85
     },
     {
         "product_id" : 188,
@@ -2275,7 +2443,9 @@
         "original_price":399,
         "discounted_price":277,
         "product_description":"Unicharm’s feminine hygiene brand Sofy has been active in the industry since early 60s and has spread across a lot of countries. From manufacturing products for period days to advanced technology products for non-period days, Sofy sells top-quality sanitary napkins, tampons and pantyliners for women all around the world.",
-        "product_image" : "https://i.ibb.co/4JrVQ4w/image.png"
+        "product_image" : "https://i.ibb.co/4JrVQ4w/image.png",
+        "brand_name" : "Sofy",
+        "brand_id" : 86
     },
     {
         "product_id" : 189,
@@ -2286,7 +2456,9 @@
         "original_price":105,
         "discounted_price":100,
         "product_description":"Breathable design offers trusted dryness and long-lasting freshness Designed to be comfortable, so you barely feel a thing while wearing them Leaves you feeling fresh and confident all day long Locks and eliminates odours Gentle on delicate skin Ideal for non-period days",
-        "product_image" : "https://i.ibb.co/ydQrgSy/image.png"
+        "product_image" : "https://i.ibb.co/ydQrgSy/image.png",
+        "brand_name" : "Whisper",
+        "brand_id" : 84
     },
     {
         "product_id" : 190,
@@ -2297,7 +2469,9 @@
         "original_price":109,
         "discounted_price":99,
         "product_description":"Whisper Sanitary Napkin (Regular Wings) comes with the dry weave top sheet that gives a clean and dry feel because of its funnel shaped holes that pull the wetness in and prevent it from returning to the surface.",
-        "product_image" : "https://i.ibb.co/8jRK8pk/image.png"
+        "product_image" : "https://i.ibb.co/8jRK8pk/image.png",
+        "brand_name" : "Whisper",
+        "brand_id" : 84
     },
     {
         "product_id" : 191,
@@ -2308,7 +2482,9 @@
         "original_price":280,
         "discounted_price":238,
         "product_description":"Get the smoothest skin and the freedom to wear any look, any time with Veet. Make Veet your best friend and you’ll never have any embarrassing hair moments. Veet Hair Removal creams give you silky smooth skin along with a delightful scent with New Veet Hair Removal Creams, now with Silk and Fresh Technology.",
-        "product_image" : "https://i.ibb.co/17xnJyL/image.png"
+        "product_image" : "https://i.ibb.co/17xnJyL/image.png",
+        "brand_name" : "Veet",
+        "brand_id" : 87
     },
     {
         "product_id" : 192,
@@ -2319,7 +2495,9 @@
         "original_price":259,
         "discounted_price":244,
         "product_description":"Get the smoothest skin and the freedom to wear any look, any time with Veet. Make Veet your best friend and you’ll never ever have any embarrassing hair moments. Veet Ready-to-Use Wax Strips are a perfect solution when going to the parlour is not an option.",
-        "product_image" : "https://i.ibb.co/pWGNGZq/image.png"
+        "product_image" : "https://i.ibb.co/pWGNGZq/image.png",
+        "brand_name" : "Veet",
+        "brand_id" : 87
     },
     {
         "product_id" : 193,
@@ -2330,7 +2508,9 @@
         "original_price":75,
         "discounted_price":69,
         "product_description":"Designed as an easy-to-use hair removal razor for women, ‘simply venus 3’ use and throw disposable razors provide you with easy hair removal and smooth skin. Simply apply water, glide the venus razor against the direction of the hair growth and then wash and apply your favourite moisturiser.",
-        "product_image" : "https://i.ibb.co/F8q786y/image.png"
+        "product_image" : "https://i.ibb.co/F8q786y/image.png",
+        "brand_name" : "Gillette",
+        "brand_id" : 88
     },
     {
         "product_id" : 194,
@@ -2341,7 +2521,9 @@
         "original_price":251,
         "discounted_price":200,
         "product_description":"Parachute Coconut oil is India’s No.1 coconut oil that contains the goodness of 100% pure coconut oil. It is made from naturally sun-dried coconuts sourced from the finest farms of our country. The oil is extracted from the nuts through a meticulous hands free process.",
-        "product_image" : "https://i.ibb.co/0JphrJq/image.png"
+        "product_image" : "https://i.ibb.co/0JphrJq/image.png",
+        "brand_name" : "Parachute",
+        "brand_id" : 89
     },
     {
         "product_id" : 195,
@@ -2352,7 +2534,9 @@
         "original_price":890,
         "discounted_price":667,
         "product_description":"Sunsilk Stunning Black Shine shampoo, for hair that shines like you do! It comes with activ-mix that contains Amla + Oil, Pearl Protein and Vitamin E. Amla + Oil is known for providing shine to hair, Pearl Protein is known for its moisture binding properties and Vitamin E is known as antioxidant.",
-        "product_image" : "https://i.ibb.co/Lhtrw2g/image.png"
+        "product_image" : "https://i.ibb.co/Lhtrw2g/image.png",
+        "brand_name" : "Sunsilk",
+        "brand_id" : 90
     },
     {
         "product_id" : 196,
@@ -2363,7 +2547,9 @@
         "original_price":772,
         "discounted_price":618,
         "product_description":"Clinic Plus believes that girls can achieve their true potential when they are raised to be strong. Mothers who empower their daughters by instilling values such as resilience and determination in them, will find that the confidence to face life’s obstacles comes naturally to them.",
-        "product_image" : "https://i.ibb.co/RgJZDqs/image.png"
+        "product_image" : "https://i.ibb.co/RgJZDqs/image.png",
+        "brand_name" : "Clinic Plus",
+        "brand_id" : 91
     },
     {
         "product_id" : 197,
@@ -2374,7 +2560,9 @@
         "original_price":1170,
         "discounted_price":971,
         "product_description":"Indulekha Bringha Oil is a Proprietary Ayurvedic Medicine for Hair Fall, Grows New Hair. It is 100% Ayurvedic Oil which is clinically proven to reduce hair fall and grows new hair in 4 months. It is proven on real male and female consumers having mild to severe hair fall.",
-        "product_image" : "https://i.ibb.co/0q6Rkm2/image.png"
+        "product_image" : "https://i.ibb.co/0q6Rkm2/image.png",
+        "brand_name" : "Indulekha",
+        "brand_id" : 92
     },
     {
         "product_id" : 198,
@@ -2385,7 +2573,9 @@
         "original_price":162,
         "discounted_price":138,
         "product_description":"Now Say Goodbye to your hair worries! The new Hair & Care Triple Blend Oil enriched with Aloe Vera, Olive Oil & Green Tea repairs up to 100 % hair damage*. It is light and non-sticky and comes with the classic, loved Hair & Care fragrance.",
-        "product_image" : "https://i.ibb.co/mG3VFTm/image.png"
+        "product_image" : "https://i.ibb.co/mG3VFTm/image.png",
+        "brand_name" : "Hair & Care",
+        "brand_id" : 93
     },
     {
         "product_id" : 199,
@@ -2396,7 +2586,9 @@
         "original_price":435,
         "discounted_price":348,
         "product_description":"The new and improved Bajaj Almond Drops Hair Oil is enriched with 6x Vitamin E & Almond Oil to help you get the shiny, strong hair you’ve always wanted.",
-        "product_image" : "https://i.ibb.co/cwC74SV/image.png"
+        "product_image" : "https://i.ibb.co/cwC74SV/image.png",
+        "brand_name" : "Bajaj Almond",
+        "brand_id" : 94
     },
     {
         "product_id" : 200,
@@ -2407,7 +2599,9 @@
         "original_price":400,
         "discounted_price":280,
         "product_description":"Non sticky. Goodness of almond. Mild fragrance.",
-        "product_image" : "https://i.ibb.co/1JLmSnw/image.png"
+        "product_image" : "https://i.ibb.co/1JLmSnw/image.png",
+        "brand_name" : "Navratna",
+        "brand_id" : 95
     },
     {
         "product_id" : 201,
@@ -2418,7 +2612,9 @@
         "original_price":399,
         "discounted_price":300,
         "product_description":"A proprietary medicianal oil clinically tested to reduce hair fall and grow new hair. A unique blend of Bhringraj and other herbs known in Ayurveda Grantha Sahasra Yoga to improve quality of hair, treat split ends, prevent premature greying of hair and hair fall.",
-        "product_image" : "https://i.ibb.co/5KpCRS7/image.png"
+        "product_image" : "https://i.ibb.co/5KpCRS7/image.png",
+        "brand_name" : "Dabur",
+        "brand_id" : 82
     },
     {
         "product_id" : 202,
@@ -2429,7 +2625,9 @@
         "original_price":249,
         "discounted_price":199,
         "product_description":"The Formula including glycerine to hydrate and special lubricants to enhance razor glide for a smooth, comfortable shave.",
-        "product_image" : "https://i.ibb.co/LYL18hf/image.png"
+        "product_image" : "https://i.ibb.co/LYL18hf/image.png",
+        "brand_name" : "Gillette",
+        "brand_id" : 88
     },
     {
         "product_id" : 203,
@@ -2440,7 +2638,9 @@
         "original_price":283,
         "discounted_price":294,
         "product_description":"With Cinthol Lime Bathing Soap, every bath is a fresh start. Indulge in the goodness of lime with this bathing soap. Its enhanced lemony fragrance revitalizes your senses to give you a fantastic bathing experience.",
-        "product_image" : "https://i.ibb.co/NKg7bJH/image.png"
+        "product_image" : "https://i.ibb.co/NKg7bJH/image.png",
+        "brand_name" : "Cinthol",
+        "brand_id" : 96
     },
     {
         "product_id" : 204,
@@ -2451,7 +2651,9 @@
         "original_price":820,
         "discounted_price":606,
         "product_description":"Gillette mach3 men's razor blade refills feature stronger-than-steel blades that stay sharper longer. With sharper blades, it is engineered to last for 15 comfortable shaves.",
-        "product_image" : "https://i.ibb.co/s2Qr0TW/image.png"
+        "product_image" : "https://i.ibb.co/s2Qr0TW/image.png",
+        "brand_name" : "Gillette",
+        "brand_id" : 88
     },
     {
         "product_id" : 205,
@@ -2462,7 +2664,9 @@
         "original_price":245,
         "discounted_price":159,
         "product_description":"Introducing the Dark Temptation body spray by AXE. It offers a wide range of long-lasting fragrances, no-gas perfumes and male grooming products, Axe is your wingman for all your daily grooming needs.",
-        "product_image" : "https://i.ibb.co/NLz9Htj/image.png"
+        "product_image" : "https://i.ibb.co/NLz9Htj/image.png",
+        "brand_name" : "AXE",
+        "brand_id" : 97
     },
     {
         "product_id" : 206,
@@ -2473,7 +2677,9 @@
         "original_price":285,
         "discounted_price":152,
         "product_description":"A long day needs long-lasting freshness. Here’s a men’s deodorant that helps keep the freshness, the suave man’s poise, and confidence intact all day long. Designed with a special formula enriched with Ocean Extracts, this deodorant not only appeals to the senses but also keeps body odour in check for all your daily rigorous tasks.",
-        "product_image" : "https://i.ibb.co/v44ZS7G/image.png"
+        "product_image" : "https://i.ibb.co/v44ZS7G/image.png",
+        "brand_name" : "Nivea",
+        "brand_id" : 98
     },
     {
         "product_id" : 207,
@@ -2484,7 +2690,9 @@
         "original_price":199,
         "discounted_price":164,
         "product_description":"The invigorating & refreshing formula with Vitamin Care immediately disinfects just shaved skin and protects against inflammation. It supports the skin’s natural protection system & helps to regenerate it. Skin Compatibility dermatologically approved.",
-        "product_image" : "https://i.ibb.co/z603Gvg/image.png"
+        "product_image" : "https://i.ibb.co/z603Gvg/image.png",
+        "brand_name" : "Nivea",
+        "brand_id" : 98
     },
     {
         "product_id" : 208,
@@ -2495,7 +2703,9 @@
         "original_price":300,
         "discounted_price":276,
         "product_description":"Gillette India Limited, P&G Plaza, Cardinal Gracias Road, Andheri (E), Mumbai 400099 MH., India,",
-        "product_image" : "https://i.ibb.co/S7YdMgG/image.png"
+        "product_image" : "https://i.ibb.co/S7YdMgG/image.png",
+        "brand_name" : "Gillette",
+        "brand_id" : 88
     },
     {
         "product_id" : 209,
@@ -2506,7 +2716,9 @@
         "original_price":375,
         "discounted_price":187,
         "product_description":"Every day, your skin is exposed to damaging environmental factors like extreme temperatures, low humidity, harsh cleansers, and hot water, all that can make your skin feel dry. Thats why many put their trust, especially during winters, in Indias No.1 Best-Selling Body Lotion - Vaseline Deep Moisture.",
-        "product_image" : "https://i.ibb.co/mHnfnb9/image.png"
+        "product_image" : "https://i.ibb.co/mHnfnb9/image.png",
+        "brand_name" : "Vaseline",
+        "brand_id" : 99
     },
     {
         "product_id" : 210,
@@ -2517,7 +2729,9 @@
         "original_price":550,
         "discounted_price":275,
         "product_description":"Dryness can cause your skin to become itchy, flaky and lose its healthy glow. But with the right kind of body lotion, you can say goodbye to very dry skin forever! Nivea Oil in Lotion Cocoa Nourish with the revolutionary 'oil in lotion' formula deeply moisturizers very dry skin for 24 hours with just 1 use!",
-        "product_image" : "https://i.ibb.co/MCff2tJ/image.png"
+        "product_image" : "https://i.ibb.co/MCff2tJ/image.png",
+        "brand_name" : "Nivea",
+        "brand_id" : 98
     },
     {
         "product_id" : 211,
@@ -2528,7 +2742,9 @@
         "original_price":425,
         "discounted_price":234,
         "product_description":"Himalaya's Purifying Neem Face Wash is a soap-free, herbal formulation that cleans impurities and helps clear pimples. Himalaya's Purifying Neem Face Wash is a soap-free, herbal formulation that cleans impurities and helps clear pimples.",
-        "product_image" : "https://i.ibb.co/tBgMppk/image.png"
+        "product_image" : "https://i.ibb.co/tBgMppk/image.png",
+        "brand_name" : "Himalaya Personal Care",
+        "brand_id" : 100
     },
     {
         "product_id" : 212,
@@ -2539,7 +2755,9 @@
         "original_price":230,
         "discounted_price":112,
         "product_description":"Is your true brightness lost or hidden? Over time, dead skin cells accumulate on your skin, hiding your true brightness, making you look dull. Introducing new and improved Pond's Bright Beauty Spot-less Glow Face Wash. First-ever facewash with Double Brightening Action to renew your maximum brightness every day.",
-        "product_image" : "https://i.ibb.co/y5QhgN1/image.png"
+        "product_image" : "https://i.ibb.co/y5QhgN1/image.png",
+        "brand_name" : "Pond's",
+        "brand_id" : 101
     },
     {
         "product_id" : 213,
@@ -2550,7 +2768,9 @@
         "original_price":465,
         "discounted_price":256,
         "product_description":"",
-        "product_image" : "https://i.ibb.co/pQFKyBt/image.png"
+        "product_image" : "https://i.ibb.co/pQFKyBt/image.png",
+        "brand_name" : "Nivea",
+        "brand_id" : 98
     },
     {
         "product_id" : 214,
@@ -2561,7 +2781,9 @@
         "original_price":500,
         "discounted_price":450,
         "product_description":"Bio-Oil Skin Care Body Oil contains vitamin A, vitamin E, calendula oil, lavender oil, rosemary oil, chamomile oil and the breakthrough ingredient purcellin oil. Will help improve the appearance of scars, stretch marks and uneven skin tone, Also recommended for ageing skin and dehydrated skin. Gets easily absorbed into the skin.",
-        "product_image" : "https://i.ibb.co/Yfk4RNX/image.png"
+        "product_image" : "https://i.ibb.co/Yfk4RNX/image.png",
+        "brand_name" : "Bio-Oil",
+        "brand_id" : 102
     },
     {
         "product_id" : 215,
@@ -2572,7 +2794,9 @@
         "original_price":990,
         "discounted_price":792,
         "product_description":"Are you suffering from dull, dry and dehydrated skin? Is your skin damaged and irritated? Not anymore! Boost your hydration game by introducing your skin to our Moisture Balm face moisturizer. It is a lightweight moisturizer for dry skin and sensitive skin that provides ample hydration and nourishment. Forget your dry skin woes with our dermatologist formulated, multi-purpose moisturizing cream for face and neck.",
-        "product_image" : "https://i.ibb.co/HNKxsQN/image.png"
+        "product_image" : "https://i.ibb.co/HNKxsQN/image.png",
+        "brand_name" : "Skin Q",
+        "brand_id" : 103
     },
     {
         "product_id" : 216,
@@ -2583,7 +2807,9 @@
         "original_price":159,
         "discounted_price":103,
         "product_description":"Did you know, sweat trapped in your underarms feeds bacteria to cause 90% of body odour? To stop body odour at its source, you need Rexona – the World’s No. 1 Deodorant! Rexona Underarm Roll-On acts on underarm sweat where bacteria thrive, to keep you smelling clean and protected from odour all day!",
-        "product_image" : "https://i.ibb.co/jkXP86V/image.png"
+        "product_image" : "https://i.ibb.co/jkXP86V/image.png",
+        "brand_name" : "Rexona",
+        "brand_id" : 104
     },
     {
         "product_id" : 217,
@@ -2594,7 +2820,9 @@
         "original_price":249,
         "discounted_price":162,
         "product_description":"Nivea Men Fresh Active Roll On has a unique aroma. It has the fragrance of lemon peel that gives you a long-lasting aroma. It gives you protection against bad odour for a long time. The roll-on application makes it easy to use and apply. It keeps you feeling fresh all day long.",
-        "product_image" : "https://i.ibb.co/SKpC91x/image.png"
+        "product_image" : "https://i.ibb.co/SKpC91x/image.png",
+        "brand_name" : "Nivea",
+        "brand_id" : 98
     },
     {
         "product_id" : 218,
@@ -2605,7 +2833,9 @@
         "original_price":310,
         "discounted_price":284,
         "product_description":"Unique fragrance containing a mix of floral & citrus notes suited for any time of usage. This fragrance will leave you feeling refreshed & sensual. Leave an enticing trail of your whiff everywhere you go. Engage cologne sprays to have higher fragrance dosage and 0% gas.",
-        "product_image" : "https://i.ibb.co/RH8RyRT/image.png"
+        "product_image" : "https://i.ibb.co/RH8RyRT/image.png",
+        "brand_name" : "Engage",
+        "brand_id" : 105
     },
     {
         "product_id" : 219,
@@ -2616,7 +2846,9 @@
         "original_price":349,
         "discounted_price":244,
         "product_description":"Waking up to a picture-perfect Dewy Morning in London, overlooking the Thames, as the sun caresses the smile on your face and sets you in a playful cheery start. This fragrance has been crafted with a choice of ingredients to give a burst of freshness.",
-        "product_image" : "https://i.ibb.co/jV69KXw/image.png"
+        "product_image" : "https://i.ibb.co/jV69KXw/image.png",
+        "brand_name" : "Yardley London",
+        "brand_id" : 106
     },
     {
         "product_id" : 220,
@@ -2627,7 +2859,9 @@
         "original_price":399,
         "discounted_price":279,
         "product_description":"Intensely masculine, and timelessly classic. This perfume is the true hallmark of a Gentleman – definitive, awe-inspiring and a man of his world. Yardley’s Gentleman Classic fragrance with fresh woody fougère notes is designed to exemplify the elegance of a man who enjoys the finer things in life.",
-        "product_image" : "https://i.ibb.co/gSvqCVP/image.png"
+        "product_image" : "https://i.ibb.co/gSvqCVP/image.png",
+        "brand_name" : "Yardley London",
+        "brand_id" : 106
     },
     {
         "product_id" : 221,
@@ -2638,7 +2872,9 @@
         "original_price":250,
         "discounted_price":175,
         "product_description":"24 hours protection. Long Lasting fragrance. Pleasant and soothing.",
-        "product_image" : "https://i.ibb.co/kHGSYtm/image.png"
+        "product_image" : "https://i.ibb.co/kHGSYtm/image.png",
+        "brand_name" : "Spinz",
+        "brand_id" : 107
     },
     {
         "product_id" : 222,
@@ -2649,7 +2885,9 @@
         "original_price":50,
         "discounted_price":43,
         "product_description":"C R S Agarbathies, Vellore District- 635851",
-        "product_image" : "https://i.ibb.co/990Qfss/image.png"
+        "product_image" : "https://i.ibb.co/990Qfss/image.png",
+        "brand_name" : "ITC Limited",
+        "brand_id" : 108
     },
     {
         "product_id" : 223,
@@ -2660,7 +2898,9 @@
         "original_price":299,
         "discounted_price":269,
         "product_description":"We have something exciting for you to fall in love with if you are looking for something good in terms of fragrance and without alcohol. Attar White Oud is a wonderful attar for both men and women. Attar White Oud is ideal for both parties and everyday use.",
-        "product_image" : "https://i.ibb.co/dJmyh1b/image.png"
+        "product_image" : "https://i.ibb.co/dJmyh1b/image.png",
+        "brand_name" : "Ameerah",
+        "brand_id" : 109
     },
     {
         "product_id" : 224,
@@ -2671,7 +2911,9 @@
         "original_price":399,
         "discounted_price":265,
         "product_description":"NEW IMPROVED Pampers all round protection pants have ANTI RASH BLANKET* containing Lotion with Aloe Vera, to keep your baby’s skin protected from redness and rashes. Top quality diaper pants with Up to 100% WETNESS LOCK, keeps the pee locked inside and baby's bum stays dry for ALL NIGHT.",
-        "product_image" : "https://i.ibb.co/LtD7wwP/image.png"
+        "product_image" : "https://i.ibb.co/LtD7wwP/image.png",
+        "brand_name" : "Pampers",
+        "brand_id" : 110
     },
     {
         "product_id" : 225,
@@ -2682,7 +2924,9 @@
         "original_price":1399,
         "discounted_price":929,
         "product_description":"New pampers premium care pants with 360-degree cottony softness give your baby the ultimate comfort all day, all night long. Pampers premium care pants contain soothing lotion with aloe vera to protect your baby's skin from rashes, while its 10 million micropores allow your baby's skin to breathe.",
-        "product_image" : "https://i.ibb.co/jT9stfZ/image.png"
+        "product_image" : "https://i.ibb.co/jT9stfZ/image.png",
+        "brand_name" : "Pampers",
+        "brand_id" : 110
     },
     {
         "product_id" : 226,
@@ -2693,7 +2937,9 @@
         "original_price":249,
         "discounted_price":112,
         "product_description":"Every little miracle deserves gentle protection – mothers & doctors have always trusted Pampers to provide the care. Presenting Pampers baby wipes with aloe that has the goodness of lotion with aloe vera to protect against skin rashes & redness.",
-        "product_image" : "https://i.ibb.co/MNfkQYS/image.png"
+        "product_image" : "https://i.ibb.co/MNfkQYS/image.png",
+        "brand_name" : "Pampers",
+        "brand_id" : 110
     },
     {
         "product_id" : 227,
@@ -2704,7 +2950,9 @@
         "original_price":200,
         "discounted_price":157,
         "product_description":"Himalaya Indian Lotus Aloe Vera Gentle Baby Wipes are mild sufficient to sooth your baby's bottoms when changing a diaper. It can also be used to softly cleanse your baby's skin. The natural ingredients guarantee that baby remains bacteria-free during the day.",
-        "product_image" : "https://i.ibb.co/0DHFj7C/image.png"
+        "product_image" : "https://i.ibb.co/0DHFj7C/image.png",
+        "brand_name" : "Himalaya Personal Care",
+        "brand_id" : 100
     },
     {
         "product_id" : 228,
@@ -2715,7 +2963,9 @@
         "original_price":1499,
         "discounted_price":1274,
         "product_description":"MamyPoko Pants Extra Absorb Diapers with crisscross absorbent sheet absorb 7 glasses of urine and spread it equally, so there is no fear of heaviness. Its stretchable thigh support prevents gaps between the diaper and the baby's thigh, hence prevents leakage.",
-        "product_image" : "https://i.ibb.co/yRRDqSy/image.png"
+        "product_image" : "https://i.ibb.co/yRRDqSy/image.png",
+        "brand_name" : "MamyPoko",
+        "brand_id" : 111
     },
     {
         "product_id" : 229,
@@ -2726,7 +2976,9 @@
         "original_price":450,
         "discounted_price":414,
         "product_description":"Johnson's baby wipes with lid protects newborn delicate skin from redness and rashes. Johnson's baby wipes have sponge-like fibres with 3x moisturizing lotion for soft and gentle care for a newborn. Alcohol-free, soap-free. Every Johnson’s product passes a 5 level safety assurance process.",
-        "product_image" : "https://i.ibb.co/ZV1Y5G4/image.png"
+        "product_image" : "https://i.ibb.co/ZV1Y5G4/image.png",
+        "brand_name" : "Johnson's",
+        "brand_id" : 112
     },
     {
         "product_id" : 230,
@@ -2737,7 +2989,9 @@
         "original_price":849,
         "discounted_price":637,
         "product_description":"Huggies knows that nothing is more important than the comfort and well-being of your little baby. Choosing the best diaper for your baby is an important step in ensuring the comfort of your little one during the day as well as overnight.",
-        "product_image" : "https://i.ibb.co/Wc1mTzB/image.png"
+        "product_image" : "https://i.ibb.co/Wc1mTzB/image.png",
+        "brand_name" : "Huggies",
+        "brand_id" : 113
     },
     {
         "product_id" : 231,
@@ -2748,7 +3002,9 @@
         "original_price":98,
         "discounted_price":94,
         "product_description":"Johnson's Baby shampoo is as gentle to the eyes as pure water. Equipped with a pump for easy usage It gently cleanses hair and is mild to eyes. Only Giggles. No More Tears. It is pH balanced and hypoallergenic. Recommended by doctors. No Parabens, No Formaldehyde, No Dye.",
-        "product_image" : "https://i.ibb.co/Jq8YYWh/image.png"
+        "product_image" : "https://i.ibb.co/Jq8YYWh/image.png",
+        "brand_name" : "Johnson's",
+        "brand_id" : 112
     },
     {
         "product_id" : 232,
@@ -2759,7 +3015,9 @@
         "original_price":185,
         "discounted_price":145,
         "product_description":"Himalaya Gentle Baby Shampoo, Hibiscus, Chickpea: A Specially formulated mild shampoo that gently cleanes the hair making it soft, shiny and easy to manage. Hibiscus extract Softens hair, natural protein fron Chickpea gives shine and Khus-Khus cools the scalp.",
-        "product_image" : "https://i.ibb.co/F5H6Rrw/image.png"
+        "product_image" : "https://i.ibb.co/F5H6Rrw/image.png",
+        "brand_name" : "Himalaya Personal Care",
+        "brand_id" : 100
     },
     {
         "product_id" : 233,
@@ -2770,7 +3028,9 @@
         "original_price":385,
         "discounted_price":338,
         "product_description":"Johnson's baby lotion is suitable for a newborn. With 24 hour moisture, prevents moisture loss and protects baby's skin barrier. Baby soft skin, all day long, it has a non-greasy formula for quick absorption. Clinically mildness proven.",
-        "product_image" : "https://i.ibb.co/RTg1JZN/image.png"
+        "product_image" : "https://i.ibb.co/RTg1JZN/image.png",
+        "brand_name" : "Johnson's",
+        "brand_id" : 112
     },
     {
         "product_id" : 234,
@@ -2781,7 +3041,9 @@
         "original_price":250,
         "discounted_price":196,
         "product_description":"Himalayas Baby Powder eliminates dryness and keeps babys skin cool and comfortable.",
-        "product_image" : "https://i.ibb.co/bP6TBsD/image.png"
+        "product_image" : "https://i.ibb.co/bP6TBsD/image.png",
+        "brand_name" : "Himalaya Personal Care",
+        "brand_id" : 100
     },
     {
         "product_id" : 235,
@@ -2792,7 +3054,9 @@
         "original_price":62,
         "discounted_price":53,
         "product_description":"In the first few months our babys skin is continually developing, so as well as being as soft, its also super delicate. Babys skin is 30% thinner than ours, so its more vulnerable to damage and dryness and their skin barrier is weaker too, which means babys skin loses moisture up to five times faster than ours does.",
-        "product_image" : "https://i.ibb.co/hgcMr3c/image.png"
+        "product_image" : "https://i.ibb.co/hgcMr3c/image.png",
+        "brand_name" : "Dove",
+        "brand_id" : 114
     },
     {
         "product_id" : 236,
@@ -2803,7 +3067,9 @@
         "original_price":349,
         "discounted_price":314,
         "product_description":"Prepared with traditional Ayurvedic recipe, Mother Sparsh Baby Hair Oil offers the nature’s best to your little one & passes on the wisdom of ancient rituals to your journey as a new mom. Enriched with anti-fungal and anti-inflammatory properties of Coconut & Neem, the baby hair oil ensures improved hair volume and aids in preventing a flaky scalp.",
-        "product_image" : "https://i.ibb.co/55kQRgp/image.png"
+        "product_image" : "https://i.ibb.co/55kQRgp/image.png",
+        "brand_name" : "Mother Sparsh",
+        "brand_id" : 115
     },
     {
         "product_id" : 237,
@@ -2814,7 +3080,9 @@
         "original_price":375,
         "discounted_price":270,
         "product_description":"Dabur Baby lotion is enriched with baby loving ayurvedic herbs and it has been developed to match the PH balance of baby skin. The power of Aloe vera, winter cherry, Almond and Licorice helps to keep your baby's skin soft and protected for both dry and scaly skins of babies.",
-        "product_image" : "https://i.ibb.co/z7ZxJdT/image.png"
+        "product_image" : "https://i.ibb.co/z7ZxJdT/image.png",
+        "brand_name" : "Dabur",
+        "brand_id" : 82
     },
     {
         "product_id" : 238,
@@ -2825,7 +3093,9 @@
         "original_price":620,
         "discounted_price":580,
         "product_description":"It offers specialized nutrition for pregnant and breastfeeding women. Mother's Horlicks contains Nutrients important for healthy pregnancy and lactation. It contains nutrients that are known to help improve birth weight. It contains DHA and Choline; important for brain development.",
-        "product_image" : "https://i.ibb.co/hB9N83r/image.png"
+        "product_image" : "https://i.ibb.co/hB9N83r/image.png",
+        "brand_name" : "Horlicks",
+        "brand_id" : 116
     },
     {
         "product_id" : 239,
@@ -2836,7 +3106,9 @@
         "original_price":730,
         "discounted_price":654,
         "product_description":"Vivamom contains Cert5 signature nutrients: Protein (Whey & Casein) - is associated with reduced risks of low birth weight (LBW) and helps improve fetal growth. Dietary Fiber - Supports bowel frequency and stool consistency and helps meet increased dietary fiber needs during pregnancy. DHA - Maternal intake of DHA supports brain & eye development of the fetus",
-        "product_image" : "https://i.ibb.co/dkwYh0g/image.png"
+        "product_image" : "https://i.ibb.co/dkwYh0g/image.png",
+        "brand_name" : "Signutra",
+        "brand_id" : 117
     },
     {
         "product_id" : 240,
@@ -2847,7 +3119,9 @@
         "original_price":421,
         "discounted_price":394,
         "product_description":"Galact is a breastfeeding supplement for mothers. Natural ingredients like Shatavari, Sowa, Gokshur Panchang, Yashtimadhu, etc helps promote the production of breast milk without any side effect for mom and child. This lactating supplement is available in Elaichi flavour. ",
-        "product_image" : "https://i.ibb.co/x2FDQGj/image.png"
+        "product_image" : "https://i.ibb.co/x2FDQGj/image.png",
+        "brand_name" : "Galact Granules",
+        "brand_id" : 118
     },
     {
         "product_id" : 241,
@@ -2858,18 +3132,22 @@
         "original_price":80,
         "discounted_price":68,
         "product_description":"Soothe your nipples with Himalaya FOR MOMS Nipple Care Butter, packed with the goodness of natural oils and butter. Our nipple care butter effectively managed sore and cracked nipples, reduces itching and helps maintain skin moisture around the nipples.",
-        "product_image" : "https://i.ibb.co/Yh6DKPQ/image.png"
+        "product_image" : "https://i.ibb.co/Yh6DKPQ/image.png",
+        "brand_name" : "Himalaya Personal Care",
+        "brand_id" : 100
     },
     {
         "product_id" : 242,
-        "product_name" : "IRONA Super Soft Premium Disposable Maternity Breast Pads",
+        "product_name" : "SIRONA Super Soft Premium Disposable Maternity Breast Pads",
         "sub_category_name":"Mothers & Maternity",
         "sub_category_id": 33,
         "product_quantity":"36 pieces",
         "original_price":449,
         "discounted_price":312,
         "product_description":"At Sirona we are committed towards an exclusive objective, i.e. creating products and driving conversations around the feminine hygiene problems. Simply put, our existence, innovations and solutions begin with your issues and end at your overall wellbeing.",
-        "product_image" : "https://i.ibb.co/2s6vgdv/image.png"
+        "product_image" : "https://i.ibb.co/2s6vgdv/image.png",
+        "brand_name" : "Sirona",
+        "brand_id" : 119
     },
     {
         "product_id" : 243,
@@ -2880,7 +3158,9 @@
         "original_price":249,
         "discounted_price":225,
         "product_description":"Your breasts need equal attention as your other body parts. Long hours of wearing bras can put a lot of stress on your breasts and shoulders. This causes a lot of pain in your chest. This Breast Destressing Roll-On is formulated with Lavender Oil and Ylang Ylang Oil for reducing the stress and impressions caused by wired bras around your breasts and shoulders.",
-        "product_image" : "https://i.ibb.co/GvY3ZkR/image.png"
+        "product_image" : "https://i.ibb.co/GvY3ZkR/image.png",
+        "brand_name" : "Sanfe",
+        "brand_id" : 120
     },
     {
         "product_id" : 244,
@@ -2891,7 +3171,9 @@
         "original_price":475,
         "discounted_price":436,
         "product_description":"Healofy Naturals Healthy Pregnancy Mom's Trail Mix Dry Fruits Nuts Seeds Mix is one of the best ways to have a nutritional diet to improve a baby’s and mom’s health beginning from the motherhood journey.",
-        "product_image" : "https://i.ibb.co/j4RrvwQ/image.png"
+        "product_image" : "https://i.ibb.co/j4RrvwQ/image.png",
+        "brand_name" : "Healofy",
+        "brand_id" : 121
     },
     {
         "product_id" : 245,
@@ -2902,7 +3184,9 @@
         "original_price":1689,
         "discounted_price":1047,
         "product_description":"The Moms Co believes in rendering nothing but the best to mothers and their toddlers alike, by helping the mothers make choices that are safe, natural and effective. Their products, Developed and tested with the best experts across India, Australia and Switzerland are made with love and without compromise, Retaining the all the good from Mother Nature.",
-        "product_image" : "https://i.ibb.co/cvxrbKs/image.png"
+        "product_image" : "https://i.ibb.co/cvxrbKs/image.png",
+        "brand_name" : "The Moms Co",
+        "brand_id" : 122
     },
     {
         "product_id" : 246,
@@ -2913,7 +3197,9 @@
         "original_price":540,
         "discounted_price":527,
         "product_description":"Presenting, Surf excel matic top load the machine specialist laundry detergent from the Surf excel matic family that gives you 100% Tough Stain Removal in Machines. Surf excel matic top load is specially designed to work in high water level environment (40 liters) of top load washing machines.",
-        "product_image" : "https://i.ibb.co/zFVsySK/image.png"
+        "product_image" : "https://i.ibb.co/zFVsySK/image.png",
+        "brand_name" : "Surf Excel",
+        "brand_id" : 123
     },
     {
         "product_id" : 247,
@@ -2924,7 +3210,9 @@
         "original_price":168,
         "discounted_price":160,
         "product_description":"India's favourite Masala Noodles, Maggi 2-minute Noodles, now come with the goodness of Iron. Each portion (70g) of Maggi Masala Noodles provides you with 15% of your daily Iron requirement (*as per the Daily Dietary Allowances for an Adult Sedentary Male (ICMR 2010).",
-        "product_image" : "https://i.ibb.co/WxVfcCH/image.png"
+        "product_image" : "https://i.ibb.co/WxVfcCH/image.png",
+        "brand_name" : "Maggi",
+        "brand_id" : 25
     },
     {
         "product_id" : 248,
@@ -2935,7 +3223,9 @@
         "original_price":407,
         "discounted_price":342,
         "product_description":"Almonds are bite-sized all-rounders when it comes to keeping you young & fit. It's food for the brain, keeping your memory sharp. They are packed full of nutrients. The wholesome constituents of these nuts provide the required amount of energy to the body and help maintain brain health.",
-        "product_image" : "https://i.ibb.co/jM21XFt/image.png"
+        "product_image" : "https://i.ibb.co/jM21XFt/image.png",
+        "brand_name" : "Fresho",
+        "brand_id" : 7
     },
     {
         "product_id" : 249,
@@ -2946,7 +3236,9 @@
         "original_price":40,
         "discounted_price":35,
         "product_description":"Romance your taste buds with the tangy flavour of tomatoes and savoury spices. From the everyday snack to the impromptu get-togethers, Laya’s chips are the perfect addition to any occasion. Whether it’s party time or family time, everyone loves gathering around the chip bowl.",
-        "product_image" : "https://i.ibb.co/G9csy37/image.png"
+        "product_image" : "https://i.ibb.co/G9csy37/image.png",
+        "brand_name" : "Lays",
+        "brand_id" : 124
     },
     {
         "product_id" : 250,
@@ -2957,6 +3249,8 @@
         "original_price":650,
         "discounted_price":553,
         "product_description":"Conjure up an aura of style and enigma with the magnetic fragrance of Fogg Impressio. To the man who is always charming and radiates an aura of a true gentleman, Fogg Impressio is an ideal scent for you.",
-        "product_image" : "https://i.ibb.co/MRxtZtL/image.png"
+        "product_image" : "https://i.ibb.co/MRxtZtL/image.png",
+        "brand_name" : "Fogg",
+        "brand_id" : 125
     }
 ]
