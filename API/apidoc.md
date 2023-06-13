@@ -11,8 +11,6 @@ Small Basket Grocery App API's
 
 //Page 2
 
-* Products based on the category
-
 * Products based on sub category
 
 *products based on brands
@@ -21,6 +19,12 @@ Small Basket Grocery App API's
 
 * details of the product
 
+* add product to basket
+
 //page 4
 
-* details of the products added to basket 
+* details of the products added to basket
+
+* place order
+
+*orders
